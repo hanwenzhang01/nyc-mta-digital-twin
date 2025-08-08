@@ -1,0 +1,3762 @@
+[
+  {
+    "assetID": "101N",
+    "assetLabel": "Van Cortlandt Park-242 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "103N",
+    "assetLabel": "238 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "104N",
+    "assetLabel": "231 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "106N",
+    "assetLabel": "Marble Hill-225 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "107N",
+    "assetLabel": "215 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "108N",
+    "assetLabel": "207 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "109N",
+    "assetLabel": "Dyckman St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "110N",
+    "assetLabel": "191 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "111N",
+    "assetLabel": "181 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "112N",
+    "assetLabel": "168 St-Washington Hts",
+    "assetType": "station"
+  },
+  {
+    "assetID": "113N",
+    "assetLabel": "157 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "114N",
+    "assetLabel": "145 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "115N",
+    "assetLabel": "137 St-City College",
+    "assetType": "station"
+  },
+  {
+    "assetID": "116N",
+    "assetLabel": "125 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "117N",
+    "assetLabel": "116 St-Columbia University",
+    "assetType": "station"
+  },
+  {
+    "assetID": "118N",
+    "assetLabel": "Cathedral Pkwy (110 St)",
+    "assetType": "station"
+  },
+  {
+    "assetID": "119N",
+    "assetLabel": "103 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "120N",
+    "assetLabel": "96 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "121N",
+    "assetLabel": "86 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "122N",
+    "assetLabel": "79 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "123N",
+    "assetLabel": "72 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "124N",
+    "assetLabel": "66 St-Lincoln Center",
+    "assetType": "station"
+  },
+  {
+    "assetID": "125N",
+    "assetLabel": "59 St-Columbus Circle",
+    "assetType": "station"
+  },
+  {
+    "assetID": "126N",
+    "assetLabel": "50 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "127N",
+    "assetLabel": "Times Sq-42 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "128N",
+    "assetLabel": "34 St-Penn Station",
+    "assetType": "station"
+  },
+  {
+    "assetID": "129N",
+    "assetLabel": "28 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "130N",
+    "assetLabel": "23 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "131N",
+    "assetLabel": "18 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "132N",
+    "assetLabel": "14 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "133N",
+    "assetLabel": "Christopher St-Stonewall",
+    "assetType": "station"
+  },
+  {
+    "assetID": "134N",
+    "assetLabel": "Houston St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "135N",
+    "assetLabel": "Canal St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "136N",
+    "assetLabel": "Franklin St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "137N",
+    "assetLabel": "Chambers St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "138N",
+    "assetLabel": "WTC Cortlandt",
+    "assetType": "station"
+  },
+  {
+    "assetID": "139N",
+    "assetLabel": "Rector St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "142N",
+    "assetLabel": "South Ferry",
+    "assetType": "station"
+  },
+  {
+    "assetID": "101S",
+    "assetLabel": "Van Cortlandt Park-242 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "103S",
+    "assetLabel": "238 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "104S",
+    "assetLabel": "231 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "106S",
+    "assetLabel": "Marble Hill-225 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "107S",
+    "assetLabel": "215 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "108S",
+    "assetLabel": "207 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "109S",
+    "assetLabel": "Dyckman St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "110S",
+    "assetLabel": "191 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "111S",
+    "assetLabel": "181 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "112S",
+    "assetLabel": "168 St-Washington Hts",
+    "assetType": "station"
+  },
+  {
+    "assetID": "113S",
+    "assetLabel": "157 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "114S",
+    "assetLabel": "145 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "115S",
+    "assetLabel": "137 St-City College",
+    "assetType": "station"
+  },
+  {
+    "assetID": "116S",
+    "assetLabel": "125 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "117S",
+    "assetLabel": "116 St-Columbia University",
+    "assetType": "station"
+  },
+  {
+    "assetID": "118S",
+    "assetLabel": "Cathedral Pkwy (110 St)",
+    "assetType": "station"
+  },
+  {
+    "assetID": "119S",
+    "assetLabel": "103 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "120S",
+    "assetLabel": "96 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "121S",
+    "assetLabel": "86 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "122S",
+    "assetLabel": "79 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "123S",
+    "assetLabel": "72 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "124S",
+    "assetLabel": "66 St-Lincoln Center",
+    "assetType": "station"
+  },
+  {
+    "assetID": "125S",
+    "assetLabel": "59 St-Columbus Circle",
+    "assetType": "station"
+  },
+  {
+    "assetID": "126S",
+    "assetLabel": "50 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "127S",
+    "assetLabel": "Times Sq-42 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "128S",
+    "assetLabel": "34 St-Penn Station",
+    "assetType": "station"
+  },
+  {
+    "assetID": "129S",
+    "assetLabel": "28 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "130S",
+    "assetLabel": "23 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "131S",
+    "assetLabel": "18 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "132S",
+    "assetLabel": "14 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "133S",
+    "assetLabel": "Christopher St-Stonewall",
+    "assetType": "station"
+  },
+  {
+    "assetID": "134S",
+    "assetLabel": "Houston St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "135S",
+    "assetLabel": "Canal St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "136S",
+    "assetLabel": "Franklin St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "137S",
+    "assetLabel": "Chambers St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "138S",
+    "assetLabel": "WTC Cortlandt",
+    "assetType": "station"
+  },
+  {
+    "assetID": "139S",
+    "assetLabel": "Rector St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "142S",
+    "assetLabel": "South Ferry",
+    "assetType": "station"
+  },
+  {
+    "assetID": "601N",
+    "assetLabel": "Pelham Bay Park",
+    "assetType": "station"
+  },
+  {
+    "assetID": "602N",
+    "assetLabel": "Buhre Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "603N",
+    "assetLabel": "Middletown Rd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "604N",
+    "assetLabel": "Westchester Sq-E Tremont Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "606N",
+    "assetLabel": "Zerega Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "607N",
+    "assetLabel": "Castle Hill Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "608N",
+    "assetLabel": "Parkchester",
+    "assetType": "station"
+  },
+  {
+    "assetID": "609N",
+    "assetLabel": "St Lawrence Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "610N",
+    "assetLabel": "Morrison Av-Soundview",
+    "assetType": "station"
+  },
+  {
+    "assetID": "611N",
+    "assetLabel": "Elder Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "612N",
+    "assetLabel": "Whitlock Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "613N",
+    "assetLabel": "Hunts Point Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "614N",
+    "assetLabel": "Longwood Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "615N",
+    "assetLabel": "E 149 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "616N",
+    "assetLabel": "E 143 St-St Mary's St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "617N",
+    "assetLabel": "Cypress Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "618N",
+    "assetLabel": "Brook Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "619N",
+    "assetLabel": "3 Av-138 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "621N",
+    "assetLabel": "125 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "622N",
+    "assetLabel": "116 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "623N",
+    "assetLabel": "110 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "624N",
+    "assetLabel": "103 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "625N",
+    "assetLabel": "96 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "626N",
+    "assetLabel": "86 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "627N",
+    "assetLabel": "77 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "628N",
+    "assetLabel": "68 St-Hunter College",
+    "assetType": "station"
+  },
+  {
+    "assetID": "629N",
+    "assetLabel": "59 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "630N",
+    "assetLabel": "51 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "631N",
+    "assetLabel": "Grand Central-42 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "632N",
+    "assetLabel": "33 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "633N",
+    "assetLabel": "28 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "634N",
+    "assetLabel": "23 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "635N",
+    "assetLabel": "14 St-Union Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "636N",
+    "assetLabel": "Astor Pl",
+    "assetType": "station"
+  },
+  {
+    "assetID": "637N",
+    "assetLabel": "Bleecker St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "638N",
+    "assetLabel": "Spring St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "639N",
+    "assetLabel": "Canal St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "640N",
+    "assetLabel": "Brooklyn Bridge-City Hall",
+    "assetType": "station"
+  },
+  {
+    "assetID": "601S",
+    "assetLabel": "Pelham Bay Park",
+    "assetType": "station"
+  },
+  {
+    "assetID": "602S",
+    "assetLabel": "Buhre Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "603S",
+    "assetLabel": "Middletown Rd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "604S",
+    "assetLabel": "Westchester Sq-E Tremont Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "606S",
+    "assetLabel": "Zerega Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "607S",
+    "assetLabel": "Castle Hill Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "608S",
+    "assetLabel": "Parkchester",
+    "assetType": "station"
+  },
+  {
+    "assetID": "609S",
+    "assetLabel": "St Lawrence Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "610S",
+    "assetLabel": "Morrison Av-Soundview",
+    "assetType": "station"
+  },
+  {
+    "assetID": "611S",
+    "assetLabel": "Elder Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "612S",
+    "assetLabel": "Whitlock Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "613S",
+    "assetLabel": "Hunts Point Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "614S",
+    "assetLabel": "Longwood Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "615S",
+    "assetLabel": "E 149 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "616S",
+    "assetLabel": "E 143 St-St Mary's St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "617S",
+    "assetLabel": "Cypress Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "618S",
+    "assetLabel": "Brook Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "619S",
+    "assetLabel": "3 Av-138 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "621S",
+    "assetLabel": "125 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "622S",
+    "assetLabel": "116 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "623S",
+    "assetLabel": "110 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "624S",
+    "assetLabel": "103 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "625S",
+    "assetLabel": "96 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "626S",
+    "assetLabel": "86 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "627S",
+    "assetLabel": "77 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "628S",
+    "assetLabel": "68 St-Hunter College",
+    "assetType": "station"
+  },
+  {
+    "assetID": "629S",
+    "assetLabel": "59 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "630S",
+    "assetLabel": "51 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "631S",
+    "assetLabel": "Grand Central-42 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "632S",
+    "assetLabel": "33 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "633S",
+    "assetLabel": "28 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "634S",
+    "assetLabel": "23 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "635S",
+    "assetLabel": "14 St-Union Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "636S",
+    "assetLabel": "Astor Pl",
+    "assetType": "station"
+  },
+  {
+    "assetID": "637S",
+    "assetLabel": "Bleecker St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "638S",
+    "assetLabel": "Spring St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "639S",
+    "assetLabel": "Canal St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "640S",
+    "assetLabel": "Brooklyn Bridge-City Hall",
+    "assetType": "station"
+  },
+  {
+    "assetID": "701N",
+    "assetLabel": "Flushing-Main St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "702N",
+    "assetLabel": "Mets-Willets Point",
+    "assetType": "station"
+  },
+  {
+    "assetID": "705N",
+    "assetLabel": "111 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "706N",
+    "assetLabel": "103 St-Corona Plaza",
+    "assetType": "station"
+  },
+  {
+    "assetID": "707N",
+    "assetLabel": "Junction Blvd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "708N",
+    "assetLabel": "90 St-Elmhurst Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "709N",
+    "assetLabel": "82 St-Jackson Hts",
+    "assetType": "station"
+  },
+  {
+    "assetID": "710N",
+    "assetLabel": "74 St-Broadway",
+    "assetType": "station"
+  },
+  {
+    "assetID": "711N",
+    "assetLabel": "69 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "712N",
+    "assetLabel": "61 St-Woodside",
+    "assetType": "station"
+  },
+  {
+    "assetID": "713N",
+    "assetLabel": "52 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "714N",
+    "assetLabel": "46 St-Bliss St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "715N",
+    "assetLabel": "40 St-Lowery St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "716N",
+    "assetLabel": "33 St-Rawson St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "718N",
+    "assetLabel": "Queensboro Plaza",
+    "assetType": "station"
+  },
+  {
+    "assetID": "719N",
+    "assetLabel": "Court Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "720N",
+    "assetLabel": "Hunters Point Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "721N",
+    "assetLabel": "Vernon Blvd-Jackson Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "723N",
+    "assetLabel": "Grand Central-42 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "724N",
+    "assetLabel": "5 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "725N",
+    "assetLabel": "Times Sq-42 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "726N",
+    "assetLabel": "34 St-Hudson Yards",
+    "assetType": "station"
+  },
+  {
+    "assetID": "701S",
+    "assetLabel": "Flushing-Main St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "702S",
+    "assetLabel": "Mets-Willets Point",
+    "assetType": "station"
+  },
+  {
+    "assetID": "705S",
+    "assetLabel": "111 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "706S",
+    "assetLabel": "103 St-Corona Plaza",
+    "assetType": "station"
+  },
+  {
+    "assetID": "707S",
+    "assetLabel": "Junction Blvd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "708S",
+    "assetLabel": "90 St-Elmhurst Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "709S",
+    "assetLabel": "82 St-Jackson Hts",
+    "assetType": "station"
+  },
+  {
+    "assetID": "710S",
+    "assetLabel": "74 St-Broadway",
+    "assetType": "station"
+  },
+  {
+    "assetID": "711S",
+    "assetLabel": "69 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "712S",
+    "assetLabel": "61 St-Woodside",
+    "assetType": "station"
+  },
+  {
+    "assetID": "713S",
+    "assetLabel": "52 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "714S",
+    "assetLabel": "46 St-Bliss St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "715S",
+    "assetLabel": "40 St-Lowery St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "716S",
+    "assetLabel": "33 St-Rawson St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "718S",
+    "assetLabel": "Queensboro Plaza",
+    "assetType": "station"
+  },
+  {
+    "assetID": "719S",
+    "assetLabel": "Court Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "720S",
+    "assetLabel": "Hunters Point Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "721S",
+    "assetLabel": "Vernon Blvd-Jackson Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "723S",
+    "assetLabel": "Grand Central-42 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "724S",
+    "assetLabel": "5 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "725S",
+    "assetLabel": "Times Sq-42 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "726S",
+    "assetLabel": "34 St-Hudson Yards",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A25N",
+    "assetLabel": "50 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A27N",
+    "assetLabel": "42 St-Port Authority Bus Terminal",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A28N",
+    "assetLabel": "34 St-Penn Station",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A30N",
+    "assetLabel": "23 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A31N",
+    "assetLabel": "14 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A32N",
+    "assetLabel": "W 4 St-Wash Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A33N",
+    "assetLabel": "Spring St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A34N",
+    "assetLabel": "Canal St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D14N",
+    "assetLabel": "7 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "E01N",
+    "assetLabel": "World Trade Center",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F05N",
+    "assetLabel": "Briarwood",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F06N",
+    "assetLabel": "Kew Gardens-Union Tpke",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F07N",
+    "assetLabel": "75 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F09N",
+    "assetLabel": "Court Sq-23 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F11N",
+    "assetLabel": "Lexington Av/53 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F12N",
+    "assetLabel": "5 Av/53 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G05N",
+    "assetLabel": "Jamaica Center-Parsons/Archer",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G06N",
+    "assetLabel": "Sutphin Blvd-Archer Av-JFK Airport",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G07N",
+    "assetLabel": "Jamaica-Van Wyck",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G08N",
+    "assetLabel": "Forest Hills-71 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G09N",
+    "assetLabel": "67 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G10N",
+    "assetLabel": "63 Dr-Rego Park",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G11N",
+    "assetLabel": "Woodhaven Blvd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G12N",
+    "assetLabel": "Grand Av-Newtown",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G13N",
+    "assetLabel": "Elmhurst Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G14N",
+    "assetLabel": "Jackson Hts-Roosevelt Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G15N",
+    "assetLabel": "65 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G16N",
+    "assetLabel": "Northern Blvd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G18N",
+    "assetLabel": "46 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G19N",
+    "assetLabel": "Steinway St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G20N",
+    "assetLabel": "36 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G21N",
+    "assetLabel": "Queens Plaza",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A25S",
+    "assetLabel": "50 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A27S",
+    "assetLabel": "42 St-Port Authority Bus Terminal",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A28S",
+    "assetLabel": "34 St-Penn Station",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A30S",
+    "assetLabel": "23 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A31S",
+    "assetLabel": "14 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A32S",
+    "assetLabel": "W 4 St-Wash Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A33S",
+    "assetLabel": "Spring St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "A34S",
+    "assetLabel": "Canal St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D14S",
+    "assetLabel": "7 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "E01S",
+    "assetLabel": "World Trade Center",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F05S",
+    "assetLabel": "Briarwood",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F06S",
+    "assetLabel": "Kew Gardens-Union Tpke",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F07S",
+    "assetLabel": "75 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F09S",
+    "assetLabel": "Court Sq-23 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F11S",
+    "assetLabel": "Lexington Av/53 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "F12S",
+    "assetLabel": "5 Av/53 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G05S",
+    "assetLabel": "Jamaica Center-Parsons/Archer",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G06S",
+    "assetLabel": "Sutphin Blvd-Archer Av-JFK Airport",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G07S",
+    "assetLabel": "Jamaica-Van Wyck",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G08S",
+    "assetLabel": "Forest Hills-71 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G09S",
+    "assetLabel": "67 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G10S",
+    "assetLabel": "63 Dr-Rego Park",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G11S",
+    "assetLabel": "Woodhaven Blvd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G12S",
+    "assetLabel": "Grand Av-Newtown",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G13S",
+    "assetLabel": "Elmhurst Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G14S",
+    "assetLabel": "Jackson Hts-Roosevelt Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G15S",
+    "assetLabel": "65 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G16S",
+    "assetLabel": "Northern Blvd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G18S",
+    "assetLabel": "46 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G19S",
+    "assetLabel": "Steinway St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G20S",
+    "assetLabel": "36 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "G21S",
+    "assetLabel": "Queens Plaza",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L01N",
+    "assetLabel": "8 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L02N",
+    "assetLabel": "6 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L03N",
+    "assetLabel": "14 St-Union Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L05N",
+    "assetLabel": "3 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L06N",
+    "assetLabel": "1 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L08N",
+    "assetLabel": "Bedford Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L10N",
+    "assetLabel": "Lorimer St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L11N",
+    "assetLabel": "Graham Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L12N",
+    "assetLabel": "Grand St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L13N",
+    "assetLabel": "Montrose Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L14N",
+    "assetLabel": "Morgan Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L15N",
+    "assetLabel": "Jefferson St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L16N",
+    "assetLabel": "DeKalb Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L17N",
+    "assetLabel": "Myrtle-Wyckoff Avs",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L19N",
+    "assetLabel": "Halsey St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L20N",
+    "assetLabel": "Wilson Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L21N",
+    "assetLabel": "Bushwick Av-Aberdeen St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L22N",
+    "assetLabel": "Broadway Junction",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L24N",
+    "assetLabel": "Atlantic Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L25N",
+    "assetLabel": "Sutter Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L26N",
+    "assetLabel": "Livonia Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L27N",
+    "assetLabel": "New Lots Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L28N",
+    "assetLabel": "East 105 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L29N",
+    "assetLabel": "Canarsie-Rockaway Pkwy",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L01S",
+    "assetLabel": "8 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L02S",
+    "assetLabel": "6 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L03S",
+    "assetLabel": "14 St-Union Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L05S",
+    "assetLabel": "3 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L06S",
+    "assetLabel": "1 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L08S",
+    "assetLabel": "Bedford Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L10S",
+    "assetLabel": "Lorimer St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L11S",
+    "assetLabel": "Graham Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L12S",
+    "assetLabel": "Grand St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L13S",
+    "assetLabel": "Montrose Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L14S",
+    "assetLabel": "Morgan Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L15S",
+    "assetLabel": "Jefferson St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L16S",
+    "assetLabel": "DeKalb Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L17S",
+    "assetLabel": "Myrtle-Wyckoff Avs",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L19S",
+    "assetLabel": "Halsey St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L20S",
+    "assetLabel": "Wilson Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L21S",
+    "assetLabel": "Bushwick Av-Aberdeen St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L22S",
+    "assetLabel": "Broadway Junction",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L24S",
+    "assetLabel": "Atlantic Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L25S",
+    "assetLabel": "Sutter Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L26S",
+    "assetLabel": "Livonia Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L27S",
+    "assetLabel": "New Lots Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L28S",
+    "assetLabel": "East 105 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "L29S",
+    "assetLabel": "Canarsie-Rockaway Pkwy",
+    "assetType": "station"
+  },
+  {
+    "assetID": "B08N",
+    "assetLabel": "Lexington Av/63 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D24N",
+    "assetLabel": "Atlantic Av-Barclays Ctr",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D25N",
+    "assetLabel": "7 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D26N",
+    "assetLabel": "Prospect Park",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D27N",
+    "assetLabel": "Parkside Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D28N",
+    "assetLabel": "Church Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D29N",
+    "assetLabel": "Beverley Rd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D30N",
+    "assetLabel": "Cortelyou Rd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D31N",
+    "assetLabel": "Newkirk Plaza",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D32N",
+    "assetLabel": "Avenue H",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D33N",
+    "assetLabel": "Avenue J",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D34N",
+    "assetLabel": "Avenue M",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D35N",
+    "assetLabel": "Kings Hwy",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D37N",
+    "assetLabel": "Avenue U",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D38N",
+    "assetLabel": "Neck Rd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D39N",
+    "assetLabel": "Sheepshead Bay",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D40N",
+    "assetLabel": "Brighton Beach",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D41N",
+    "assetLabel": "Ocean Pkwy",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D42N",
+    "assetLabel": "W 8 St-NY Aquarium",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D43N",
+    "assetLabel": "Coney Island-Stillwell Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "Q01N",
+    "assetLabel": "Canal St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "Q03N",
+    "assetLabel": "72 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "Q04N",
+    "assetLabel": "86 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "Q05N",
+    "assetLabel": "96 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R14N",
+    "assetLabel": "57 St-7 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R15N",
+    "assetLabel": "49 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R16N",
+    "assetLabel": "Times Sq-42 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R17N",
+    "assetLabel": "34 St-Herald Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R18N",
+    "assetLabel": "28 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R19N",
+    "assetLabel": "23 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R20N",
+    "assetLabel": "14 St-Union Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R21N",
+    "assetLabel": "8 St-NYU",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R22N",
+    "assetLabel": "Prince St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R30N",
+    "assetLabel": "DeKalb Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "B08S",
+    "assetLabel": "Lexington Av/63 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D24S",
+    "assetLabel": "Atlantic Av-Barclays Ctr",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D25S",
+    "assetLabel": "7 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D26S",
+    "assetLabel": "Prospect Park",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D27S",
+    "assetLabel": "Parkside Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D28S",
+    "assetLabel": "Church Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D29S",
+    "assetLabel": "Beverley Rd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D30S",
+    "assetLabel": "Cortelyou Rd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D31S",
+    "assetLabel": "Newkirk Plaza",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D32S",
+    "assetLabel": "Avenue H",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D33S",
+    "assetLabel": "Avenue J",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D34S",
+    "assetLabel": "Avenue M",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D35S",
+    "assetLabel": "Kings Hwy",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D37S",
+    "assetLabel": "Avenue U",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D38S",
+    "assetLabel": "Neck Rd",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D39S",
+    "assetLabel": "Sheepshead Bay",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D40S",
+    "assetLabel": "Brighton Beach",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D41S",
+    "assetLabel": "Ocean Pkwy",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D42S",
+    "assetLabel": "W 8 St-NY Aquarium",
+    "assetType": "station"
+  },
+  {
+    "assetID": "D43S",
+    "assetLabel": "Coney Island-Stillwell Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "Q01S",
+    "assetLabel": "Canal St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "Q03S",
+    "assetLabel": "72 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "Q04S",
+    "assetLabel": "86 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "Q05S",
+    "assetLabel": "96 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R14S",
+    "assetLabel": "57 St-7 Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R15S",
+    "assetLabel": "49 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R16S",
+    "assetLabel": "Times Sq-42 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R17S",
+    "assetLabel": "34 St-Herald Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R18S",
+    "assetLabel": "28 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R19S",
+    "assetLabel": "23 St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R20S",
+    "assetLabel": "14 St-Union Sq",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R21S",
+    "assetLabel": "8 St-NYU",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R22S",
+    "assetLabel": "Prince St",
+    "assetType": "station"
+  },
+  {
+    "assetID": "R30S",
+    "assetLabel": "DeKalb Av",
+    "assetType": "station"
+  },
+  {
+    "assetID": "enrouteTo101N",
+    "assetLabel": "Enroute To Van Cortlandt Park-242",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo101S",
+    "assetLabel": "Enroute To Van Cortlandt Park-242",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo103N",
+    "assetLabel": "Enroute To 238 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo103S",
+    "assetLabel": "Enroute To 238 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo104N",
+    "assetLabel": "Enroute To 231 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo104S",
+    "assetLabel": "Enroute To 231 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo106N",
+    "assetLabel": "Enroute To Marble Hill-225 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo106S",
+    "assetLabel": "Enroute To Marble Hill-225 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo107N",
+    "assetLabel": "Enroute To 215 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo107S",
+    "assetLabel": "Enroute To 215 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo108N",
+    "assetLabel": "Enroute To 207 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo108S",
+    "assetLabel": "Enroute To 207 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo109N",
+    "assetLabel": "Enroute To Dyckman St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo109S",
+    "assetLabel": "Enroute To Dyckman St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo110N",
+    "assetLabel": "Enroute To 191 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo110S",
+    "assetLabel": "Enroute To 191 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo111N",
+    "assetLabel": "Enroute To 181 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo111S",
+    "assetLabel": "Enroute To 181 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo112N",
+    "assetLabel": "Enroute To 168 St-Washington Hts",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo112S",
+    "assetLabel": "Enroute To 168 St-Washington Hts",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo113N",
+    "assetLabel": "Enroute To 157 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo113S",
+    "assetLabel": "Enroute To 157 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo114N",
+    "assetLabel": "Enroute To 145 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo114S",
+    "assetLabel": "Enroute To 145 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo115N",
+    "assetLabel": "Enroute To 137 St-City College",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo115S",
+    "assetLabel": "Enroute To 137 St-City College",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo116N",
+    "assetLabel": "Enroute To 125 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo116S",
+    "assetLabel": "Enroute To 125 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo117N",
+    "assetLabel": "Enroute To 116 St-Columbia Univers",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo117S",
+    "assetLabel": "Enroute To 116 St-Columbia Univers",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo118N",
+    "assetLabel": "Enroute To Cathedral Pkwy (110 St)",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo118S",
+    "assetLabel": "Enroute To Cathedral Pkwy (110 St)",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo119N",
+    "assetLabel": "Enroute To 103 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo119S",
+    "assetLabel": "Enroute To 103 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo120N",
+    "assetLabel": "Enroute To 96 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo120S",
+    "assetLabel": "Enroute To 96 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo121N",
+    "assetLabel": "Enroute To 86 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo121S",
+    "assetLabel": "Enroute To 86 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo122N",
+    "assetLabel": "Enroute To 79 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo122S",
+    "assetLabel": "Enroute To 79 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo123N",
+    "assetLabel": "Enroute To 72 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo123S",
+    "assetLabel": "Enroute To 72 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo124N",
+    "assetLabel": "Enroute To 66 St-Lincoln Center",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo124S",
+    "assetLabel": "Enroute To 66 St-Lincoln Center",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo125N",
+    "assetLabel": "Enroute To 59 St-Columbus Circle",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo125S",
+    "assetLabel": "Enroute To 59 St-Columbus Circle",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo126N",
+    "assetLabel": "Enroute To 50 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo126S",
+    "assetLabel": "Enroute To 50 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo127N",
+    "assetLabel": "Enroute To Times Sq-42 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo127S",
+    "assetLabel": "Enroute To Times Sq-42 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo128N",
+    "assetLabel": "Enroute To 34 St-Penn Station",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo128S",
+    "assetLabel": "Enroute To 34 St-Penn Station",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo129N",
+    "assetLabel": "Enroute To 28 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo129S",
+    "assetLabel": "Enroute To 28 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo130N",
+    "assetLabel": "Enroute To 23 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo130S",
+    "assetLabel": "Enroute To 23 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo131N",
+    "assetLabel": "Enroute To 18 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo131S",
+    "assetLabel": "Enroute To 18 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo132N",
+    "assetLabel": "Enroute To 14 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo132S",
+    "assetLabel": "Enroute To 14 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo133N",
+    "assetLabel": "Enroute To Christopher St-Stonewal",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo133S",
+    "assetLabel": "Enroute To Christopher St-Stonewal",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo134N",
+    "assetLabel": "Enroute To Houston St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo134S",
+    "assetLabel": "Enroute To Houston St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo135N",
+    "assetLabel": "Enroute To Canal St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo135S",
+    "assetLabel": "Enroute To Canal St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo136N",
+    "assetLabel": "Enroute To Franklin St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo136S",
+    "assetLabel": "Enroute To Franklin St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo137N",
+    "assetLabel": "Enroute To Chambers St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo137S",
+    "assetLabel": "Enroute To Chambers St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo138N",
+    "assetLabel": "Enroute To WTC Cortlandt",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo138S",
+    "assetLabel": "Enroute To WTC Cortlandt",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo139N",
+    "assetLabel": "Enroute To Rector St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo139S",
+    "assetLabel": "Enroute To Rector St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo142N",
+    "assetLabel": "Enroute To South Ferry",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo142S",
+    "assetLabel": "Enroute To South Ferry",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo601N",
+    "assetLabel": "Enroute To Pelham Bay Park",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo601S",
+    "assetLabel": "Enroute To Pelham Bay Park",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo602N",
+    "assetLabel": "Enroute To Buhre Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo602S",
+    "assetLabel": "Enroute To Buhre Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo603N",
+    "assetLabel": "Enroute To Middletown Rd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo603S",
+    "assetLabel": "Enroute To Middletown Rd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo604N",
+    "assetLabel": "Enroute To Westchester Sq-E Tremon",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo604S",
+    "assetLabel": "Enroute To Westchester Sq-E Tremon",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo606N",
+    "assetLabel": "Enroute To Zerega Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo606S",
+    "assetLabel": "Enroute To Zerega Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo607N",
+    "assetLabel": "Enroute To Castle Hill Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo607S",
+    "assetLabel": "Enroute To Castle Hill Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo608N",
+    "assetLabel": "Enroute To Parkchester",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo608S",
+    "assetLabel": "Enroute To Parkchester",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo609N",
+    "assetLabel": "Enroute To St Lawrence Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo609S",
+    "assetLabel": "Enroute To St Lawrence Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo610N",
+    "assetLabel": "Enroute To Morrison Av-Soundview",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo610S",
+    "assetLabel": "Enroute To Morrison Av-Soundview",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo611N",
+    "assetLabel": "Enroute To Elder Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo611S",
+    "assetLabel": "Enroute To Elder Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo612N",
+    "assetLabel": "Enroute To Whitlock Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo612S",
+    "assetLabel": "Enroute To Whitlock Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo613N",
+    "assetLabel": "Enroute To Hunts Point Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo613S",
+    "assetLabel": "Enroute To Hunts Point Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo614N",
+    "assetLabel": "Enroute To Longwood Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo614S",
+    "assetLabel": "Enroute To Longwood Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo615N",
+    "assetLabel": "Enroute To E 149 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo615S",
+    "assetLabel": "Enroute To E 149 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo616N",
+    "assetLabel": "Enroute To E 143 St-St Mary's St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo616S",
+    "assetLabel": "Enroute To E 143 St-St Mary's St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo617N",
+    "assetLabel": "Enroute To Cypress Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo617S",
+    "assetLabel": "Enroute To Cypress Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo618N",
+    "assetLabel": "Enroute To Brook Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo618S",
+    "assetLabel": "Enroute To Brook Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo619N",
+    "assetLabel": "Enroute To 3 Av-138 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo619S",
+    "assetLabel": "Enroute To 3 Av-138 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo621N",
+    "assetLabel": "Enroute To 125 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo621S",
+    "assetLabel": "Enroute To 125 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo622N",
+    "assetLabel": "Enroute To 116 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo622S",
+    "assetLabel": "Enroute To 116 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo623N",
+    "assetLabel": "Enroute To 110 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo623S",
+    "assetLabel": "Enroute To 110 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo624N",
+    "assetLabel": "Enroute To 103 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo624S",
+    "assetLabel": "Enroute To 103 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo625N",
+    "assetLabel": "Enroute To 96 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo625S",
+    "assetLabel": "Enroute To 96 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo626N",
+    "assetLabel": "Enroute To 86 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo626S",
+    "assetLabel": "Enroute To 86 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo627N",
+    "assetLabel": "Enroute To 77 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo627S",
+    "assetLabel": "Enroute To 77 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo628N",
+    "assetLabel": "Enroute To 68 St-Hunter College",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo628S",
+    "assetLabel": "Enroute To 68 St-Hunter College",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo629N",
+    "assetLabel": "Enroute To 59 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo629S",
+    "assetLabel": "Enroute To 59 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo630N",
+    "assetLabel": "Enroute To 51 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo630S",
+    "assetLabel": "Enroute To 51 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo631N",
+    "assetLabel": "Enroute To Grand Central-42 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo631S",
+    "assetLabel": "Enroute To Grand Central-42 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo632N",
+    "assetLabel": "Enroute To 33 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo632S",
+    "assetLabel": "Enroute To 33 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo633N",
+    "assetLabel": "Enroute To 28 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo633S",
+    "assetLabel": "Enroute To 28 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo634N",
+    "assetLabel": "Enroute To 23 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo634S",
+    "assetLabel": "Enroute To 23 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo635N",
+    "assetLabel": "Enroute To 14 St-Union Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo635S",
+    "assetLabel": "Enroute To 14 St-Union Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo636N",
+    "assetLabel": "Enroute To Astor Pl",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo636S",
+    "assetLabel": "Enroute To Astor Pl",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo637N",
+    "assetLabel": "Enroute To Bleecker St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo637S",
+    "assetLabel": "Enroute To Bleecker St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo638N",
+    "assetLabel": "Enroute To Spring St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo638S",
+    "assetLabel": "Enroute To Spring St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo639N",
+    "assetLabel": "Enroute To Canal St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo639S",
+    "assetLabel": "Enroute To Canal St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo640N",
+    "assetLabel": "Enroute To Brooklyn Bridge-City Ha",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo640S",
+    "assetLabel": "Enroute To Brooklyn Bridge-City Ha",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo701N",
+    "assetLabel": "Enroute To Flushing-Main St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo701S",
+    "assetLabel": "Enroute To Flushing-Main St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo702N",
+    "assetLabel": "Enroute To Mets-Willets Point",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo702S",
+    "assetLabel": "Enroute To Mets-Willets Point",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo705N",
+    "assetLabel": "Enroute To 111 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo705S",
+    "assetLabel": "Enroute To 111 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo706N",
+    "assetLabel": "Enroute To 103 St-Corona Plaza",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo706S",
+    "assetLabel": "Enroute To 103 St-Corona Plaza",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo707N",
+    "assetLabel": "Enroute To Junction Blvd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo707S",
+    "assetLabel": "Enroute To Junction Blvd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo708N",
+    "assetLabel": "Enroute To 90 St-Elmhurst Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo708S",
+    "assetLabel": "Enroute To 90 St-Elmhurst Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo709N",
+    "assetLabel": "Enroute To 82 St-Jackson Hts",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo709S",
+    "assetLabel": "Enroute To 82 St-Jackson Hts",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo710N",
+    "assetLabel": "Enroute To 74 St-Broadway",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo710S",
+    "assetLabel": "Enroute To 74 St-Broadway",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo711N",
+    "assetLabel": "Enroute To 69 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo711S",
+    "assetLabel": "Enroute To 69 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo712N",
+    "assetLabel": "Enroute To 61 St-Woodside",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo712S",
+    "assetLabel": "Enroute To 61 St-Woodside",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo713N",
+    "assetLabel": "Enroute To 52 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo713S",
+    "assetLabel": "Enroute To 52 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo714N",
+    "assetLabel": "Enroute To 46 St-Bliss St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo714S",
+    "assetLabel": "Enroute To 46 St-Bliss St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo715N",
+    "assetLabel": "Enroute To 40 St-Lowery St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo715S",
+    "assetLabel": "Enroute To 40 St-Lowery St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo716N",
+    "assetLabel": "Enroute To 33 St-Rawson St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo716S",
+    "assetLabel": "Enroute To 33 St-Rawson St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo718N",
+    "assetLabel": "Enroute To Queensboro Plaza",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo718S",
+    "assetLabel": "Enroute To Queensboro Plaza",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo719N",
+    "assetLabel": "Enroute To Court Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo719S",
+    "assetLabel": "Enroute To Court Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo720N",
+    "assetLabel": "Enroute To Hunters Point Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo720S",
+    "assetLabel": "Enroute To Hunters Point Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo721N",
+    "assetLabel": "Enroute To Vernon Blvd-Jackson Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo721S",
+    "assetLabel": "Enroute To Vernon Blvd-Jackson Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo723N",
+    "assetLabel": "Enroute To Grand Central-42 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo723S",
+    "assetLabel": "Enroute To Grand Central-42 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo724N",
+    "assetLabel": "Enroute To 5 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo724S",
+    "assetLabel": "Enroute To 5 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo725N",
+    "assetLabel": "Enroute To Times Sq-42 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo725S",
+    "assetLabel": "Enroute To Times Sq-42 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo726N",
+    "assetLabel": "Enroute To 34 St-Hudson Yards",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteTo726S",
+    "assetLabel": "Enroute To 34 St-Hudson Yards",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA25N",
+    "assetLabel": "Enroute To 50 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA25S",
+    "assetLabel": "Enroute To 50 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA27N",
+    "assetLabel": "Enroute To 42 St-Port Authority Bu",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA27S",
+    "assetLabel": "Enroute To 42 St-Port Authority Bu",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA28N",
+    "assetLabel": "Enroute To 34 St-Penn Station",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA28S",
+    "assetLabel": "Enroute To 34 St-Penn Station",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA30N",
+    "assetLabel": "Enroute To 23 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA30S",
+    "assetLabel": "Enroute To 23 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA31N",
+    "assetLabel": "Enroute To 14 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA31S",
+    "assetLabel": "Enroute To 14 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA32N",
+    "assetLabel": "Enroute To W 4 St-Wash Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA32S",
+    "assetLabel": "Enroute To W 4 St-Wash Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA33N",
+    "assetLabel": "Enroute To Spring St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA33S",
+    "assetLabel": "Enroute To Spring St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA34N",
+    "assetLabel": "Enroute To Canal St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToA34S",
+    "assetLabel": "Enroute To Canal St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToB08N",
+    "assetLabel": "Enroute To Lexington Av/63 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToB08S",
+    "assetLabel": "Enroute To Lexington Av/63 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD14N",
+    "assetLabel": "Enroute To 7 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD14S",
+    "assetLabel": "Enroute To 7 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD24N",
+    "assetLabel": "Enroute To Atlantic Av-Barclays Ct",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD24S",
+    "assetLabel": "Enroute To Atlantic Av-Barclays Ct",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD25N",
+    "assetLabel": "Enroute To 7 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD25S",
+    "assetLabel": "Enroute To 7 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD26N",
+    "assetLabel": "Enroute To Prospect Park",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD26S",
+    "assetLabel": "Enroute To Prospect Park",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD27N",
+    "assetLabel": "Enroute To Parkside Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD27S",
+    "assetLabel": "Enroute To Parkside Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD28N",
+    "assetLabel": "Enroute To Church Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD28S",
+    "assetLabel": "Enroute To Church Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD29N",
+    "assetLabel": "Enroute To Beverley Rd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD29S",
+    "assetLabel": "Enroute To Beverley Rd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD30N",
+    "assetLabel": "Enroute To Cortelyou Rd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD30S",
+    "assetLabel": "Enroute To Cortelyou Rd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD31N",
+    "assetLabel": "Enroute To Newkirk Plaza",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD31S",
+    "assetLabel": "Enroute To Newkirk Plaza",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD32N",
+    "assetLabel": "Enroute To Avenue H",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD32S",
+    "assetLabel": "Enroute To Avenue H",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD33N",
+    "assetLabel": "Enroute To Avenue J",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD33S",
+    "assetLabel": "Enroute To Avenue J",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD34N",
+    "assetLabel": "Enroute To Avenue M",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD34S",
+    "assetLabel": "Enroute To Avenue M",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD35N",
+    "assetLabel": "Enroute To Kings Hwy",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD35S",
+    "assetLabel": "Enroute To Kings Hwy",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD37N",
+    "assetLabel": "Enroute To Avenue U",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD37S",
+    "assetLabel": "Enroute To Avenue U",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD38N",
+    "assetLabel": "Enroute To Neck Rd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD38S",
+    "assetLabel": "Enroute To Neck Rd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD39N",
+    "assetLabel": "Enroute To Sheepshead Bay",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD39S",
+    "assetLabel": "Enroute To Sheepshead Bay",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD40N",
+    "assetLabel": "Enroute To Brighton Beach",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD40S",
+    "assetLabel": "Enroute To Brighton Beach",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD41N",
+    "assetLabel": "Enroute To Ocean Pkwy",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD41S",
+    "assetLabel": "Enroute To Ocean Pkwy",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD42N",
+    "assetLabel": "Enroute To W 8 St-NY Aquarium",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD42S",
+    "assetLabel": "Enroute To W 8 St-NY Aquarium",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD43N",
+    "assetLabel": "Enroute To Coney Island-Stillwell",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToD43S",
+    "assetLabel": "Enroute To Coney Island-Stillwell",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToE01N",
+    "assetLabel": "Enroute To World Trade Center",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToE01S",
+    "assetLabel": "Enroute To World Trade Center",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF05N",
+    "assetLabel": "Enroute To Briarwood",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF05S",
+    "assetLabel": "Enroute To Briarwood",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF06N",
+    "assetLabel": "Enroute To Kew Gardens-Union Tpke",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF06S",
+    "assetLabel": "Enroute To Kew Gardens-Union Tpke",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF07N",
+    "assetLabel": "Enroute To 75 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF07S",
+    "assetLabel": "Enroute To 75 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF09N",
+    "assetLabel": "Enroute To Court Sq-23 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF09S",
+    "assetLabel": "Enroute To Court Sq-23 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF11N",
+    "assetLabel": "Enroute To Lexington Av/53 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF11S",
+    "assetLabel": "Enroute To Lexington Av/53 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF12N",
+    "assetLabel": "Enroute To 5 Av/53 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToF12S",
+    "assetLabel": "Enroute To 5 Av/53 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG05N",
+    "assetLabel": "Enroute To Jamaica Center-Parsons/",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG05S",
+    "assetLabel": "Enroute To Jamaica Center-Parsons/",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG06N",
+    "assetLabel": "Enroute To Sutphin Blvd-Archer Av-",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG06S",
+    "assetLabel": "Enroute To Sutphin Blvd-Archer Av-",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG07N",
+    "assetLabel": "Enroute To Jamaica-Van Wyck",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG07S",
+    "assetLabel": "Enroute To Jamaica-Van Wyck",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG08N",
+    "assetLabel": "Enroute To Forest Hills-71 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG08S",
+    "assetLabel": "Enroute To Forest Hills-71 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG09N",
+    "assetLabel": "Enroute To 67 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG09S",
+    "assetLabel": "Enroute To 67 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG10N",
+    "assetLabel": "Enroute To 63 Dr-Rego Park",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG10S",
+    "assetLabel": "Enroute To 63 Dr-Rego Park",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG11N",
+    "assetLabel": "Enroute To Woodhaven Blvd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG11S",
+    "assetLabel": "Enroute To Woodhaven Blvd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG12N",
+    "assetLabel": "Enroute To Grand Av-Newtown",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG12S",
+    "assetLabel": "Enroute To Grand Av-Newtown",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG13N",
+    "assetLabel": "Enroute To Elmhurst Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG13S",
+    "assetLabel": "Enroute To Elmhurst Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG14N",
+    "assetLabel": "Enroute To Jackson Hts-Roosevelt A",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG14S",
+    "assetLabel": "Enroute To Jackson Hts-Roosevelt A",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG15N",
+    "assetLabel": "Enroute To 65 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG15S",
+    "assetLabel": "Enroute To 65 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG16N",
+    "assetLabel": "Enroute To Northern Blvd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG16S",
+    "assetLabel": "Enroute To Northern Blvd",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG18N",
+    "assetLabel": "Enroute To 46 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG18S",
+    "assetLabel": "Enroute To 46 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG19N",
+    "assetLabel": "Enroute To Steinway St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG19S",
+    "assetLabel": "Enroute To Steinway St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG20N",
+    "assetLabel": "Enroute To 36 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG20S",
+    "assetLabel": "Enroute To 36 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG21N",
+    "assetLabel": "Enroute To Queens Plaza",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToG21S",
+    "assetLabel": "Enroute To Queens Plaza",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL01N",
+    "assetLabel": "Enroute To 8 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL01S",
+    "assetLabel": "Enroute To 8 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL02N",
+    "assetLabel": "Enroute To 6 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL02S",
+    "assetLabel": "Enroute To 6 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL03N",
+    "assetLabel": "Enroute To 14 St-Union Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL03S",
+    "assetLabel": "Enroute To 14 St-Union Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL05N",
+    "assetLabel": "Enroute To 3 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL05S",
+    "assetLabel": "Enroute To 3 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL06N",
+    "assetLabel": "Enroute To 1 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL06S",
+    "assetLabel": "Enroute To 1 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL08N",
+    "assetLabel": "Enroute To Bedford Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL08S",
+    "assetLabel": "Enroute To Bedford Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL10N",
+    "assetLabel": "Enroute To Lorimer St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL10S",
+    "assetLabel": "Enroute To Lorimer St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL11N",
+    "assetLabel": "Enroute To Graham Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL11S",
+    "assetLabel": "Enroute To Graham Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL12N",
+    "assetLabel": "Enroute To Grand St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL12S",
+    "assetLabel": "Enroute To Grand St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL13N",
+    "assetLabel": "Enroute To Montrose Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL13S",
+    "assetLabel": "Enroute To Montrose Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL14N",
+    "assetLabel": "Enroute To Morgan Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL14S",
+    "assetLabel": "Enroute To Morgan Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL15N",
+    "assetLabel": "Enroute To Jefferson St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL15S",
+    "assetLabel": "Enroute To Jefferson St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL16N",
+    "assetLabel": "Enroute To DeKalb Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL16S",
+    "assetLabel": "Enroute To DeKalb Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL17N",
+    "assetLabel": "Enroute To Myrtle-Wyckoff Avs",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL17S",
+    "assetLabel": "Enroute To Myrtle-Wyckoff Avs",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL19N",
+    "assetLabel": "Enroute To Halsey St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL19S",
+    "assetLabel": "Enroute To Halsey St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL20N",
+    "assetLabel": "Enroute To Wilson Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL20S",
+    "assetLabel": "Enroute To Wilson Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL21N",
+    "assetLabel": "Enroute To Bushwick Av-Aberdeen St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL21S",
+    "assetLabel": "Enroute To Bushwick Av-Aberdeen St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL22N",
+    "assetLabel": "Enroute To Broadway Junction",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL22S",
+    "assetLabel": "Enroute To Broadway Junction",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL24N",
+    "assetLabel": "Enroute To Atlantic Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL24S",
+    "assetLabel": "Enroute To Atlantic Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL25N",
+    "assetLabel": "Enroute To Sutter Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL25S",
+    "assetLabel": "Enroute To Sutter Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL26N",
+    "assetLabel": "Enroute To Livonia Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL26S",
+    "assetLabel": "Enroute To Livonia Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL27N",
+    "assetLabel": "Enroute To New Lots Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL27S",
+    "assetLabel": "Enroute To New Lots Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL28N",
+    "assetLabel": "Enroute To East 105 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL28S",
+    "assetLabel": "Enroute To East 105 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL29N",
+    "assetLabel": "Enroute To Canarsie-Rockaway Pkwy",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToL29S",
+    "assetLabel": "Enroute To Canarsie-Rockaway Pkwy",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToQ01N",
+    "assetLabel": "Enroute To Canal St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToQ01S",
+    "assetLabel": "Enroute To Canal St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToQ03N",
+    "assetLabel": "Enroute To 72 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToQ03S",
+    "assetLabel": "Enroute To 72 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToQ04N",
+    "assetLabel": "Enroute To 86 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToQ04S",
+    "assetLabel": "Enroute To 86 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToQ05N",
+    "assetLabel": "Enroute To 96 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToQ05S",
+    "assetLabel": "Enroute To 96 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR14N",
+    "assetLabel": "Enroute To 57 St-7 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR14S",
+    "assetLabel": "Enroute To 57 St-7 Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR15N",
+    "assetLabel": "Enroute To 49 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR15S",
+    "assetLabel": "Enroute To 49 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR16N",
+    "assetLabel": "Enroute To Times Sq-42 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR16S",
+    "assetLabel": "Enroute To Times Sq-42 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR17N",
+    "assetLabel": "Enroute To 34 St-Herald Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR17S",
+    "assetLabel": "Enroute To 34 St-Herald Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR18N",
+    "assetLabel": "Enroute To 28 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR18S",
+    "assetLabel": "Enroute To 28 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR19N",
+    "assetLabel": "Enroute To 23 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR19S",
+    "assetLabel": "Enroute To 23 St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR20N",
+    "assetLabel": "Enroute To 14 St-Union Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR20S",
+    "assetLabel": "Enroute To 14 St-Union Sq",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR21N",
+    "assetLabel": "Enroute To 8 St-NYU",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR21S",
+    "assetLabel": "Enroute To 8 St-NYU",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR22N",
+    "assetLabel": "Enroute To Prince St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR22S",
+    "assetLabel": "Enroute To Prince St",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR30N",
+    "assetLabel": "Enroute To DeKalb Av",
+    "assetType": "track"
+  },
+  {
+    "assetID": "enrouteToR30S",
+    "assetLabel": "Enroute To DeKalb Av",
+    "assetType": "track"
+  }
+]

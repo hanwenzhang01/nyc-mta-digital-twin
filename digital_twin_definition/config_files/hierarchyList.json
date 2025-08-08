@@ -1,0 +1,38 @@
+[
+  {
+    "hierarchyName": "1..N"
+  },
+  {
+    "hierarchyName": "1..S"
+  },
+  {
+    "hierarchyName": "6..N"
+  },
+  {
+    "hierarchyName": "6..S"
+  },
+  {
+    "hierarchyName": "7..N"
+  },
+  {
+    "hierarchyName": "7..S"
+  },
+  {
+    "hierarchyName": "E..N"
+  },
+  {
+    "hierarchyName": "E..S"
+  },
+  {
+    "hierarchyName": "L..N"
+  },
+  {
+    "hierarchyName": "L..S"
+  },
+  {
+    "hierarchyName": "Q..N"
+  },
+  {
+    "hierarchyName": "Q..S"
+  }
+]

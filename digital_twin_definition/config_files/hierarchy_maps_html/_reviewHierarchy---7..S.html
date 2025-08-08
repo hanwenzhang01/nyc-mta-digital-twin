@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<style>
+    .node circle {
+      fill: #fff;
+      stroke: #4f4f4f;
+      stroke-width: 3px;
+    }
+ 
+    .node text {
+      font: 12px sans-serif;
+    }
+ 
+    .link {
+      fill: none;
+      stroke: #b5b5b5;
+      stroke-width: 2px;
+    }
+ 
+    .link path {
+        fill: none;
+        stroke: #b5b5b5;
+        stroke-width: 2px;
+    }
+ 
+    .link text {
+        font: 12px sans-serif;
+        stroke: #4f4f4f;
+        stroke-width: 1;
+    }
+ 
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 225px;
+    padding: 2px;
+    font: 10px sans-serif;
+    background: #cfcfcf;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+ 
+  </style>
+ 
+<body>
+ 
+<h4 style="font-family:verdana;"><u>Hierarchy Diagram:  7..S</u></h4>
+ 
+  <!-- load the d3.js library -->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+    var treeData = {
+"name": "controlPanel",
+"linkname": ".",
+"hovertext": "<b><strong>controlPanel (controlPanel)</strong></b><br>No attributes available",
+      "children": [
+{"name": "Flushing-Main St",
+"linkname": "",
+"hovertext": "<b><strong>Flushing-Main St (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To Mets-Willets Point",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To Mets-Willets Point (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "Mets-Willets Point",
+"linkname": "",
+"hovertext": "<b><strong>Mets-Willets Point (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 111 St",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 111 St (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "111 St",
+"linkname": "",
+"hovertext": "<b><strong>111 St (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 103 St-Corona Plaza",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 103 St-Corona Plaza (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "103 St-Corona Plaza",
+"linkname": "",
+"hovertext": "<b><strong>103 St-Corona Plaza (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To Junction Blvd",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To Junction Blvd (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "Junction Blvd",
+"linkname": "",
+"hovertext": "<b><strong>Junction Blvd (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 90 St-Elmhurst Av",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 90 St-Elmhurst Av (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "90 St-Elmhurst Av",
+"linkname": "",
+"hovertext": "<b><strong>90 St-Elmhurst Av (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 82 St-Jackson Hts",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 82 St-Jackson Hts (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "82 St-Jackson Hts",
+"linkname": "",
+"hovertext": "<b><strong>82 St-Jackson Hts (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 74 St-Broadway",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 74 St-Broadway (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "74 St-Broadway",
+"linkname": "",
+"hovertext": "<b><strong>74 St-Broadway (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 69 St",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 69 St (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "69 St",
+"linkname": "",
+"hovertext": "<b><strong>69 St (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 61 St-Woodside",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 61 St-Woodside (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "61 St-Woodside",
+"linkname": "",
+"hovertext": "<b><strong>61 St-Woodside (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 52 St",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 52 St (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "52 St",
+"linkname": "",
+"hovertext": "<b><strong>52 St (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 46 St-Bliss St",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 46 St-Bliss St (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "46 St-Bliss St",
+"linkname": "",
+"hovertext": "<b><strong>46 St-Bliss St (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 40 St-Lowery St",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 40 St-Lowery St (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "40 St-Lowery St",
+"linkname": "",
+"hovertext": "<b><strong>40 St-Lowery St (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 33 St-Rawson St",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 33 St-Rawson St (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "33 St-Rawson St",
+"linkname": "",
+"hovertext": "<b><strong>33 St-Rawson St (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To Queensboro Plaza",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To Queensboro Plaza (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "Queensboro Plaza",
+"linkname": "",
+"hovertext": "<b><strong>Queensboro Plaza (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To Court Sq",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To Court Sq (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "Court Sq",
+"linkname": "",
+"hovertext": "<b><strong>Court Sq (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To Hunters Point Av",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To Hunters Point Av (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "Hunters Point Av",
+"linkname": "",
+"hovertext": "<b><strong>Hunters Point Av (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To Vernon Blvd-Jackson Av",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To Vernon Blvd-Jackson Av (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "Vernon Blvd-Jackson Av",
+"linkname": "",
+"hovertext": "<b><strong>Vernon Blvd-Jackson Av (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To Grand Central-42 St",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To Grand Central-42 St (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "Grand Central-42 St",
+"linkname": "",
+"hovertext": "<b><strong>Grand Central-42 St (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 5 Av",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 5 Av (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "5 Av",
+"linkname": "",
+"hovertext": "<b><strong>5 Av (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To Times Sq-42 St",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To Times Sq-42 St (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "Times Sq-42 St",
+"linkname": "",
+"hovertext": "<b><strong>Times Sq-42 St (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+"children": [
+{"name": "Enroute To 34 St-Hudson Yards",
+"linkname": "",
+"hovertext": "<b><strong>Enroute To 34 St-Hudson Yards (track)</strong></b><br>enrouteToEnd<br>enrouteToStart<br>route<br>trackLatitude<br>trackLatitude1<br>trackLongitude<br>trackLongitude1",
+"children": [
+{"name": "34 St-Hudson Yards",
+"linkname": "",
+"hovertext": "<b><strong>34 St-Hudson Yards (station)</strong></b><br>route<br>stationLatitude<br>stationLongitude<br>trainArrival<br>trainDepartureFrom<br>trainDepartureTo",
+}
+]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]};
+ 
+    // ************** Generate the tree diagram	 *****************
+    var margin = { top: 20, right: 120, bottom: 20, left: 120 },
+      width = 6020 - margin.right - margin.left,
+      height = 800 - margin.top - margin.bottom;
+ 
+        // append the svg object to the body of the page
+        // appends a 'group' element to 'svg'
+        // moves the 'group' element to the top left margin
+        var svg = d3.select("body").append("svg")
+            .attr("width", width + margin.right + margin.left)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate("
+                + margin.left + "," + margin.top + ")");
+ 
+        var i = 0,
+            duration = 750,
+            root;
+ 
+        // declares a tree layout and assigns the size
+        var treemap = d3.tree().size([height, width]);
+ 
+        // Assigns parent, children, height, depth
+        root = d3.hierarchy(treeData, function (d) { return d.children; });
+        root.x0 = height / 2;
+        root.y0 = 0;
+ 
+        // Collapse after the second level
+        // root.children.forEach(collapse);
+ 
+        update(root);
+ 
+        // Collapse the node and all it's children
+        function collapse(d) {
+            if (d.children) {
+                d._children = d.children
+                d._children.forEach(collapse)
+                d.children = null
+            }
+        }
+ 
+        function update(source) {
+ 
+            // Assigns the x and y position for the nodes
+            var treeData = treemap(root);
+ 
+            // Compute the new tree layout.
+            var nodes = treeData.descendants(),
+                links = treeData.descendants().slice(1);
+ 
+            // Normalize for fixed-depth.
+            nodes.forEach(function (d) {
+                d.y = d.depth * 120
+            });
+ 
+            // ****************** Nodes section ***************************
+ 
+            // Update the nodes...
+            var node = svg.selectAll('g.node')
+                .data(nodes, function (d) {
+                    return d.id || (d.id = ++i);
+                });
+ 
+            // Enter any new nodes at the parent's previous position.
+            var nodeEnter = node.enter().append('g')
+                .attr("class", function(d) {
+                    return 'node level-' + d.depth;
+                })
+                .attr("transform", function (d) {
+                    return "translate(" + source.y0 + "," + source.x0 + ")";
+                })
+                .on('click', click);
+ 
+            // Add Circle for the nodes
+            nodeEnter.filter(function (d) {
+                return (!d.data.type || d.data.type !== 'data');
+            }).append('circle')
+                .attr('class', 'node')
+                .attr('r', 1e-6)
+                .style("fill", function (d) {
+                    return d._children ? "#4f4f4f" : "#fff";
+                })
+                .on("mouseover",mouseoverd)
+                .on("mouseout",mouseoutd);
+ 
+            // check if controlpanel has attributes
+            var hideControlPanel = false; 
+            hideControlPanel = svg.selectAll('g .level-0')._groups[0][0].__data__.data['hovertext'].includes('No attributes available');
+ 
+           // hide the controlpanel node 
+ 			if (hideControlPanel) { 
+				nodeEnter.style("opacity", function(d, i) { 
+ 	            	return !d.depth ? 0 : 1; 
+       		}) 
+ 				.style("pointer-events", function(d, i) {
+   	            return !d.depth ? "none" : "all"; 
+		        }); 
+		    }
+ 
+            nodeEnter.filter(function (d) {
+                return (d.data.type && d.data.type === 'data');
+            }).append('rect')
+                .attr('class', 'node')
+                .attr('width', 20)
+                .attr('height', 20)
+                .attr('y', -10)
+                .attr('x', -10)
+                .style("fill", function (d) {
+                    return d._children ? "#4f4f4f" : "#fff";
+                });
+ 
+            // Add labels for the nodes
+            nodeEnter.append('text')
+                .attr("dy", "-.75em")
+                .attr("x", function (d) {
+                    return d.children || d._children ? -13 : 13;
+                })
+                .attr("text-anchor", function (d) {
+                    return d.children || d._children ? "end" : "start";
+                })
+                .text(function (d) {
+                    return d.data.name;
+                });
+ 
+            // UPDATE
+            var nodeUpdate = nodeEnter.merge(node);
+ 
+            // Transition to the proper position for the node
+            nodeUpdate.transition()
+                .duration(duration)
+                .attr("transform", function (d) {
+                    return "translate(" + d.y + "," + d.x + ")";
+                });
+ 
+            // Update the node attributes and style
+            nodeUpdate.select('circle.node')
+                .attr('r', 10)
+                .style("fill", function (d) {
+                    return d._children ? "#4f4f4f" : "#fff";
+                })
+                .attr('cursor', 'pointer');
+ 
+            // Remove any exiting nodes
+            var nodeExit = node.exit().transition()
+                .duration(duration)
+                .attr("transform", function (d) {
+                    return "translate(" + source.y + "," + source.x + ")";
+                })
+                .remove();
+ 
+            // On exit reduce the node circles size to 0
+            nodeExit.select('circle')
+                .attr('r', 1e-6);
+ 
+            // On exit reduce the opacity of text labels
+            nodeExit.select('text')
+                .style('fill-opacity', 1e-6);
+ 
+            // ****************** links section ***************************
+ 
+            // Update the links...
+            var link = svg.selectAll('g.link')
+                .data(links, function (d) {
+                    return d.id;
+                });
+ 
+            // Enter any new links at the parent's previous position.
+            var linkEnter = link.enter().insert('g', 'g')
+                .attr("class", "link");
+ 
+            linkEnter.append('text')
+                .attr("class","linkLabels")
+                .text(function (d) {
+                        return d.data.linkname;
+                    }
+                )
+                .attr("opacity",0.9)
+                .attr("dy", "0em")
+                .attr("dx", "-1.25em")
+                ;
+ 
+            linkEnter.append('path')
+                .attr('d', function (d) {
+                    var o = {
+                        x: source.x0,
+                        y: source.y0
+                    }
+                    return diagonal(o, o)
+                })
+ 
+    		// Remove the link between controlpanel and other nodes 
+		    if (hideControlPanel) { 
+   	        linkEnter.filter( function(d) { 
+ 			        return(d.depth == 1); 
+		        }) 
+		        .style("opacity",0) 
+          		.style("pointer-events","none"); 
+    		}
+ 
+            // UPDATE
+            var linkUpdate = linkEnter.merge(link);
+ 
+            // Transition back to the parent element position
+            linkUpdate.select('path').transition()
+                .duration(duration)
+                .attr('d', function (d) {
+                    return diagonal(d, d.parent)
+                });
+ 
+            linkUpdate.select('text').transition()
+                .duration(duration)
+                .attr('transform', function (d) {
+                    if (d.parent) {
+                        return 'translate(' + ((d.parent.y + d.y) / 2) + ',' + ((d.parent.x + d.x) / 2) + ')'
+                    }
+                })
+ 
+            // Remove any exiting links
+            link.exit().each(function (d) {
+                d.parent.index = 0;
+            })
+ 
+            var linkExit = link.exit()
+                .transition()
+                .duration(duration);
+ 
+            linkExit.select('path')
+                .attr('d', function (d) {
+                    var o = {
+                        x: source.x,
+                        y: source.y
+                    }
+                    return diagonal(o, o)
+                })
+ 
+            linkExit.select('text')
+                .style('opacity', 0);
+ 
+            linkExit.remove();
+ 
+            // Store the old positions for transition.
+            nodes.forEach(function (d) {
+                d.x0 = d.x;
+                d.y0 = d.y;
+            });
+ 
+            // Creates a curved (diagonal) path from parent to the child nodes
+            function diagonal(s, d) {
+                path = `M ${s.y} ${s.x}
+                        C ${(s.y + d.y) / 2} ${s.x},
+                            ${(s.y + d.y) / 2} ${d.x},
+                            ${d.y} ${d.x}`
+                return path
+            }
+ 
+            // Toggle children on click.
+            function click(d) {
+                if (d.children) {
+                    d._children = d.children;
+                    d.children = null;
+                } else {
+                    d.children = d._children;
+                    d._children = null;
+                }
+                update(d);
+            }
+        }
+ 
+        var div = d3.select("body").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+ 
+        function mouseoverd(d) {
+            div.transition()
+                .duration(200)
+                .style("opacity", .9);
+            div.html(d.data.hovertext)
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY - 28) + "px");
+        }
+        function mouseoutd(d) {
+            div.transition()
+                .duration(500)
+                .style("opacity", 0);
+        }
+</script>
+</body>
+</html>

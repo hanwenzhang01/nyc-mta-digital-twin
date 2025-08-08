@@ -1,0 +1,4370 @@
+[
+  {
+    "child_assetID": "101N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo101N"
+  },
+  {
+    "child_assetID": "enrouteTo101N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "103N"
+  },
+  {
+    "child_assetID": "103N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo103N"
+  },
+  {
+    "child_assetID": "enrouteTo103N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "104N"
+  },
+  {
+    "child_assetID": "104N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo104N"
+  },
+  {
+    "child_assetID": "enrouteTo104N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "106N"
+  },
+  {
+    "child_assetID": "106N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo106N"
+  },
+  {
+    "child_assetID": "enrouteTo106N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "107N"
+  },
+  {
+    "child_assetID": "107N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo107N"
+  },
+  {
+    "child_assetID": "enrouteTo107N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "108N"
+  },
+  {
+    "child_assetID": "108N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo108N"
+  },
+  {
+    "child_assetID": "enrouteTo108N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "109N"
+  },
+  {
+    "child_assetID": "109N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo109N"
+  },
+  {
+    "child_assetID": "enrouteTo109N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "110N"
+  },
+  {
+    "child_assetID": "110N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo110N"
+  },
+  {
+    "child_assetID": "enrouteTo110N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "111N"
+  },
+  {
+    "child_assetID": "111N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo111N"
+  },
+  {
+    "child_assetID": "enrouteTo111N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "112N"
+  },
+  {
+    "child_assetID": "112N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo112N"
+  },
+  {
+    "child_assetID": "enrouteTo112N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "113N"
+  },
+  {
+    "child_assetID": "113N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo113N"
+  },
+  {
+    "child_assetID": "enrouteTo113N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "114N"
+  },
+  {
+    "child_assetID": "114N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo114N"
+  },
+  {
+    "child_assetID": "enrouteTo114N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "115N"
+  },
+  {
+    "child_assetID": "115N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo115N"
+  },
+  {
+    "child_assetID": "enrouteTo115N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "116N"
+  },
+  {
+    "child_assetID": "116N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo116N"
+  },
+  {
+    "child_assetID": "enrouteTo116N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "117N"
+  },
+  {
+    "child_assetID": "117N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo117N"
+  },
+  {
+    "child_assetID": "enrouteTo117N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "118N"
+  },
+  {
+    "child_assetID": "118N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo118N"
+  },
+  {
+    "child_assetID": "enrouteTo118N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "119N"
+  },
+  {
+    "child_assetID": "119N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo119N"
+  },
+  {
+    "child_assetID": "enrouteTo119N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "120N"
+  },
+  {
+    "child_assetID": "120N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo120N"
+  },
+  {
+    "child_assetID": "enrouteTo120N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "121N"
+  },
+  {
+    "child_assetID": "121N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo121N"
+  },
+  {
+    "child_assetID": "enrouteTo121N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "122N"
+  },
+  {
+    "child_assetID": "122N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo122N"
+  },
+  {
+    "child_assetID": "enrouteTo122N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "123N"
+  },
+  {
+    "child_assetID": "123N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo123N"
+  },
+  {
+    "child_assetID": "enrouteTo123N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "124N"
+  },
+  {
+    "child_assetID": "124N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo124N"
+  },
+  {
+    "child_assetID": "enrouteTo124N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "125N"
+  },
+  {
+    "child_assetID": "125N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo125N"
+  },
+  {
+    "child_assetID": "enrouteTo125N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "126N"
+  },
+  {
+    "child_assetID": "126N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo126N"
+  },
+  {
+    "child_assetID": "enrouteTo126N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "127N"
+  },
+  {
+    "child_assetID": "127N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo127N"
+  },
+  {
+    "child_assetID": "enrouteTo127N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "128N"
+  },
+  {
+    "child_assetID": "128N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo128N"
+  },
+  {
+    "child_assetID": "enrouteTo128N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "129N"
+  },
+  {
+    "child_assetID": "129N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo129N"
+  },
+  {
+    "child_assetID": "enrouteTo129N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "130N"
+  },
+  {
+    "child_assetID": "130N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo130N"
+  },
+  {
+    "child_assetID": "enrouteTo130N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "131N"
+  },
+  {
+    "child_assetID": "131N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo131N"
+  },
+  {
+    "child_assetID": "enrouteTo131N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "132N"
+  },
+  {
+    "child_assetID": "132N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo132N"
+  },
+  {
+    "child_assetID": "enrouteTo132N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "133N"
+  },
+  {
+    "child_assetID": "133N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo133N"
+  },
+  {
+    "child_assetID": "enrouteTo133N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "134N"
+  },
+  {
+    "child_assetID": "134N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo134N"
+  },
+  {
+    "child_assetID": "enrouteTo134N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "135N"
+  },
+  {
+    "child_assetID": "135N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo135N"
+  },
+  {
+    "child_assetID": "enrouteTo135N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "136N"
+  },
+  {
+    "child_assetID": "136N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo136N"
+  },
+  {
+    "child_assetID": "enrouteTo136N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "137N"
+  },
+  {
+    "child_assetID": "137N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo137N"
+  },
+  {
+    "child_assetID": "enrouteTo137N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "138N"
+  },
+  {
+    "child_assetID": "138N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo138N"
+  },
+  {
+    "child_assetID": "enrouteTo138N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "139N"
+  },
+  {
+    "child_assetID": "139N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "enrouteTo139N"
+  },
+  {
+    "child_assetID": "enrouteTo139N",
+    "direction": "<->",
+    "hierarchyName": "1..N",
+    "parent_assetID": "142N"
+  },
+  {
+    "child_assetID": "142S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo142S"
+  },
+  {
+    "child_assetID": "enrouteTo142S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "139S"
+  },
+  {
+    "child_assetID": "139S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo139S"
+  },
+  {
+    "child_assetID": "enrouteTo139S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "138S"
+  },
+  {
+    "child_assetID": "138S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo138S"
+  },
+  {
+    "child_assetID": "enrouteTo138S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "137S"
+  },
+  {
+    "child_assetID": "137S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo137S"
+  },
+  {
+    "child_assetID": "enrouteTo137S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "136S"
+  },
+  {
+    "child_assetID": "136S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo136S"
+  },
+  {
+    "child_assetID": "enrouteTo136S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "135S"
+  },
+  {
+    "child_assetID": "135S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo135S"
+  },
+  {
+    "child_assetID": "enrouteTo135S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "134S"
+  },
+  {
+    "child_assetID": "134S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo134S"
+  },
+  {
+    "child_assetID": "enrouteTo134S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "133S"
+  },
+  {
+    "child_assetID": "133S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo133S"
+  },
+  {
+    "child_assetID": "enrouteTo133S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "132S"
+  },
+  {
+    "child_assetID": "132S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo132S"
+  },
+  {
+    "child_assetID": "enrouteTo132S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "131S"
+  },
+  {
+    "child_assetID": "131S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo131S"
+  },
+  {
+    "child_assetID": "enrouteTo131S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "130S"
+  },
+  {
+    "child_assetID": "130S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo130S"
+  },
+  {
+    "child_assetID": "enrouteTo130S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "129S"
+  },
+  {
+    "child_assetID": "129S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo129S"
+  },
+  {
+    "child_assetID": "enrouteTo129S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "128S"
+  },
+  {
+    "child_assetID": "128S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo128S"
+  },
+  {
+    "child_assetID": "enrouteTo128S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "127S"
+  },
+  {
+    "child_assetID": "127S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo127S"
+  },
+  {
+    "child_assetID": "enrouteTo127S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "126S"
+  },
+  {
+    "child_assetID": "126S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo126S"
+  },
+  {
+    "child_assetID": "enrouteTo126S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "125S"
+  },
+  {
+    "child_assetID": "125S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo125S"
+  },
+  {
+    "child_assetID": "enrouteTo125S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "124S"
+  },
+  {
+    "child_assetID": "124S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo124S"
+  },
+  {
+    "child_assetID": "enrouteTo124S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "123S"
+  },
+  {
+    "child_assetID": "123S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo123S"
+  },
+  {
+    "child_assetID": "enrouteTo123S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "122S"
+  },
+  {
+    "child_assetID": "122S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo122S"
+  },
+  {
+    "child_assetID": "enrouteTo122S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "121S"
+  },
+  {
+    "child_assetID": "121S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo121S"
+  },
+  {
+    "child_assetID": "enrouteTo121S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "120S"
+  },
+  {
+    "child_assetID": "120S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo120S"
+  },
+  {
+    "child_assetID": "enrouteTo120S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "119S"
+  },
+  {
+    "child_assetID": "119S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo119S"
+  },
+  {
+    "child_assetID": "enrouteTo119S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "118S"
+  },
+  {
+    "child_assetID": "118S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo118S"
+  },
+  {
+    "child_assetID": "enrouteTo118S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "117S"
+  },
+  {
+    "child_assetID": "117S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo117S"
+  },
+  {
+    "child_assetID": "enrouteTo117S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "116S"
+  },
+  {
+    "child_assetID": "116S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo116S"
+  },
+  {
+    "child_assetID": "enrouteTo116S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "115S"
+  },
+  {
+    "child_assetID": "115S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo115S"
+  },
+  {
+    "child_assetID": "enrouteTo115S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "114S"
+  },
+  {
+    "child_assetID": "114S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo114S"
+  },
+  {
+    "child_assetID": "enrouteTo114S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "113S"
+  },
+  {
+    "child_assetID": "113S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo113S"
+  },
+  {
+    "child_assetID": "enrouteTo113S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "112S"
+  },
+  {
+    "child_assetID": "112S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo112S"
+  },
+  {
+    "child_assetID": "enrouteTo112S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "111S"
+  },
+  {
+    "child_assetID": "111S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo111S"
+  },
+  {
+    "child_assetID": "enrouteTo111S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "110S"
+  },
+  {
+    "child_assetID": "110S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo110S"
+  },
+  {
+    "child_assetID": "enrouteTo110S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "109S"
+  },
+  {
+    "child_assetID": "109S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo109S"
+  },
+  {
+    "child_assetID": "enrouteTo109S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "108S"
+  },
+  {
+    "child_assetID": "108S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo108S"
+  },
+  {
+    "child_assetID": "enrouteTo108S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "107S"
+  },
+  {
+    "child_assetID": "107S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo107S"
+  },
+  {
+    "child_assetID": "enrouteTo107S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "106S"
+  },
+  {
+    "child_assetID": "106S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo106S"
+  },
+  {
+    "child_assetID": "enrouteTo106S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "104S"
+  },
+  {
+    "child_assetID": "104S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo104S"
+  },
+  {
+    "child_assetID": "enrouteTo104S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "103S"
+  },
+  {
+    "child_assetID": "103S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "enrouteTo103S"
+  },
+  {
+    "child_assetID": "enrouteTo103S",
+    "direction": "<->",
+    "hierarchyName": "1..S",
+    "parent_assetID": "101S"
+  },
+  {
+    "child_assetID": "601N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo601N"
+  },
+  {
+    "child_assetID": "enrouteTo601N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "602N"
+  },
+  {
+    "child_assetID": "602N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo602N"
+  },
+  {
+    "child_assetID": "enrouteTo602N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "603N"
+  },
+  {
+    "child_assetID": "603N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo603N"
+  },
+  {
+    "child_assetID": "enrouteTo603N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "604N"
+  },
+  {
+    "child_assetID": "604N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo604N"
+  },
+  {
+    "child_assetID": "enrouteTo604N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "606N"
+  },
+  {
+    "child_assetID": "606N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo606N"
+  },
+  {
+    "child_assetID": "enrouteTo606N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "607N"
+  },
+  {
+    "child_assetID": "607N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo607N"
+  },
+  {
+    "child_assetID": "enrouteTo607N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "608N"
+  },
+  {
+    "child_assetID": "608N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo608N"
+  },
+  {
+    "child_assetID": "enrouteTo608N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "609N"
+  },
+  {
+    "child_assetID": "609N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo609N"
+  },
+  {
+    "child_assetID": "enrouteTo609N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "610N"
+  },
+  {
+    "child_assetID": "610N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo610N"
+  },
+  {
+    "child_assetID": "enrouteTo610N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "611N"
+  },
+  {
+    "child_assetID": "611N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo611N"
+  },
+  {
+    "child_assetID": "enrouteTo611N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "612N"
+  },
+  {
+    "child_assetID": "612N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo612N"
+  },
+  {
+    "child_assetID": "enrouteTo612N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "613N"
+  },
+  {
+    "child_assetID": "613N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo613N"
+  },
+  {
+    "child_assetID": "enrouteTo613N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "614N"
+  },
+  {
+    "child_assetID": "614N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo614N"
+  },
+  {
+    "child_assetID": "enrouteTo614N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "615N"
+  },
+  {
+    "child_assetID": "615N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo615N"
+  },
+  {
+    "child_assetID": "enrouteTo615N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "616N"
+  },
+  {
+    "child_assetID": "616N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo616N"
+  },
+  {
+    "child_assetID": "enrouteTo616N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "617N"
+  },
+  {
+    "child_assetID": "617N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo617N"
+  },
+  {
+    "child_assetID": "enrouteTo617N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "618N"
+  },
+  {
+    "child_assetID": "618N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo618N"
+  },
+  {
+    "child_assetID": "enrouteTo618N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "619N"
+  },
+  {
+    "child_assetID": "619N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo619N"
+  },
+  {
+    "child_assetID": "enrouteTo619N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "621N"
+  },
+  {
+    "child_assetID": "621N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo621N"
+  },
+  {
+    "child_assetID": "enrouteTo621N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "622N"
+  },
+  {
+    "child_assetID": "622N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo622N"
+  },
+  {
+    "child_assetID": "enrouteTo622N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "623N"
+  },
+  {
+    "child_assetID": "623N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo623N"
+  },
+  {
+    "child_assetID": "enrouteTo623N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "624N"
+  },
+  {
+    "child_assetID": "624N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo624N"
+  },
+  {
+    "child_assetID": "enrouteTo624N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "625N"
+  },
+  {
+    "child_assetID": "625N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo625N"
+  },
+  {
+    "child_assetID": "enrouteTo625N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "626N"
+  },
+  {
+    "child_assetID": "626N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo626N"
+  },
+  {
+    "child_assetID": "enrouteTo626N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "627N"
+  },
+  {
+    "child_assetID": "627N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo627N"
+  },
+  {
+    "child_assetID": "enrouteTo627N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "628N"
+  },
+  {
+    "child_assetID": "628N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo628N"
+  },
+  {
+    "child_assetID": "enrouteTo628N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "629N"
+  },
+  {
+    "child_assetID": "629N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo629N"
+  },
+  {
+    "child_assetID": "enrouteTo629N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "630N"
+  },
+  {
+    "child_assetID": "630N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo630N"
+  },
+  {
+    "child_assetID": "enrouteTo630N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "631N"
+  },
+  {
+    "child_assetID": "631N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo631N"
+  },
+  {
+    "child_assetID": "enrouteTo631N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "632N"
+  },
+  {
+    "child_assetID": "632N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo632N"
+  },
+  {
+    "child_assetID": "enrouteTo632N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "633N"
+  },
+  {
+    "child_assetID": "633N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo633N"
+  },
+  {
+    "child_assetID": "enrouteTo633N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "634N"
+  },
+  {
+    "child_assetID": "634N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo634N"
+  },
+  {
+    "child_assetID": "enrouteTo634N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "635N"
+  },
+  {
+    "child_assetID": "635N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo635N"
+  },
+  {
+    "child_assetID": "enrouteTo635N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "636N"
+  },
+  {
+    "child_assetID": "636N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo636N"
+  },
+  {
+    "child_assetID": "enrouteTo636N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "637N"
+  },
+  {
+    "child_assetID": "637N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo637N"
+  },
+  {
+    "child_assetID": "enrouteTo637N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "638N"
+  },
+  {
+    "child_assetID": "638N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo638N"
+  },
+  {
+    "child_assetID": "enrouteTo638N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "639N"
+  },
+  {
+    "child_assetID": "639N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "enrouteTo639N"
+  },
+  {
+    "child_assetID": "enrouteTo639N",
+    "direction": "<->",
+    "hierarchyName": "6..N",
+    "parent_assetID": "640N"
+  },
+  {
+    "child_assetID": "640S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo640S"
+  },
+  {
+    "child_assetID": "enrouteTo640S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "639S"
+  },
+  {
+    "child_assetID": "639S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo639S"
+  },
+  {
+    "child_assetID": "enrouteTo639S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "638S"
+  },
+  {
+    "child_assetID": "638S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo638S"
+  },
+  {
+    "child_assetID": "enrouteTo638S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "637S"
+  },
+  {
+    "child_assetID": "637S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo637S"
+  },
+  {
+    "child_assetID": "enrouteTo637S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "636S"
+  },
+  {
+    "child_assetID": "636S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo636S"
+  },
+  {
+    "child_assetID": "enrouteTo636S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "635S"
+  },
+  {
+    "child_assetID": "635S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo635S"
+  },
+  {
+    "child_assetID": "enrouteTo635S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "634S"
+  },
+  {
+    "child_assetID": "634S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo634S"
+  },
+  {
+    "child_assetID": "enrouteTo634S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "633S"
+  },
+  {
+    "child_assetID": "633S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo633S"
+  },
+  {
+    "child_assetID": "enrouteTo633S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "632S"
+  },
+  {
+    "child_assetID": "632S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo632S"
+  },
+  {
+    "child_assetID": "enrouteTo632S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "631S"
+  },
+  {
+    "child_assetID": "631S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo631S"
+  },
+  {
+    "child_assetID": "enrouteTo631S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "630S"
+  },
+  {
+    "child_assetID": "630S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo630S"
+  },
+  {
+    "child_assetID": "enrouteTo630S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "629S"
+  },
+  {
+    "child_assetID": "629S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo629S"
+  },
+  {
+    "child_assetID": "enrouteTo629S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "628S"
+  },
+  {
+    "child_assetID": "628S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo628S"
+  },
+  {
+    "child_assetID": "enrouteTo628S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "627S"
+  },
+  {
+    "child_assetID": "627S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo627S"
+  },
+  {
+    "child_assetID": "enrouteTo627S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "626S"
+  },
+  {
+    "child_assetID": "626S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo626S"
+  },
+  {
+    "child_assetID": "enrouteTo626S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "625S"
+  },
+  {
+    "child_assetID": "625S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo625S"
+  },
+  {
+    "child_assetID": "enrouteTo625S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "624S"
+  },
+  {
+    "child_assetID": "624S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo624S"
+  },
+  {
+    "child_assetID": "enrouteTo624S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "623S"
+  },
+  {
+    "child_assetID": "623S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo623S"
+  },
+  {
+    "child_assetID": "enrouteTo623S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "622S"
+  },
+  {
+    "child_assetID": "622S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo622S"
+  },
+  {
+    "child_assetID": "enrouteTo622S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "621S"
+  },
+  {
+    "child_assetID": "621S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo621S"
+  },
+  {
+    "child_assetID": "enrouteTo621S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "619S"
+  },
+  {
+    "child_assetID": "619S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo619S"
+  },
+  {
+    "child_assetID": "enrouteTo619S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "618S"
+  },
+  {
+    "child_assetID": "618S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo618S"
+  },
+  {
+    "child_assetID": "enrouteTo618S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "617S"
+  },
+  {
+    "child_assetID": "617S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo617S"
+  },
+  {
+    "child_assetID": "enrouteTo617S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "616S"
+  },
+  {
+    "child_assetID": "616S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo616S"
+  },
+  {
+    "child_assetID": "enrouteTo616S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "615S"
+  },
+  {
+    "child_assetID": "615S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo615S"
+  },
+  {
+    "child_assetID": "enrouteTo615S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "614S"
+  },
+  {
+    "child_assetID": "614S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo614S"
+  },
+  {
+    "child_assetID": "enrouteTo614S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "613S"
+  },
+  {
+    "child_assetID": "613S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo613S"
+  },
+  {
+    "child_assetID": "enrouteTo613S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "612S"
+  },
+  {
+    "child_assetID": "612S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo612S"
+  },
+  {
+    "child_assetID": "enrouteTo612S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "611S"
+  },
+  {
+    "child_assetID": "611S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo611S"
+  },
+  {
+    "child_assetID": "enrouteTo611S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "610S"
+  },
+  {
+    "child_assetID": "610S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo610S"
+  },
+  {
+    "child_assetID": "enrouteTo610S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "609S"
+  },
+  {
+    "child_assetID": "609S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo609S"
+  },
+  {
+    "child_assetID": "enrouteTo609S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "608S"
+  },
+  {
+    "child_assetID": "608S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo608S"
+  },
+  {
+    "child_assetID": "enrouteTo608S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "607S"
+  },
+  {
+    "child_assetID": "607S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo607S"
+  },
+  {
+    "child_assetID": "enrouteTo607S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "606S"
+  },
+  {
+    "child_assetID": "606S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo606S"
+  },
+  {
+    "child_assetID": "enrouteTo606S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "604S"
+  },
+  {
+    "child_assetID": "604S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo604S"
+  },
+  {
+    "child_assetID": "enrouteTo604S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "603S"
+  },
+  {
+    "child_assetID": "603S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo603S"
+  },
+  {
+    "child_assetID": "enrouteTo603S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "602S"
+  },
+  {
+    "child_assetID": "602S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "enrouteTo602S"
+  },
+  {
+    "child_assetID": "enrouteTo602S",
+    "direction": "<->",
+    "hierarchyName": "6..S",
+    "parent_assetID": "601S"
+  },
+  {
+    "child_assetID": "701N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo701N"
+  },
+  {
+    "child_assetID": "enrouteTo701N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "702N"
+  },
+  {
+    "child_assetID": "702N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo702N"
+  },
+  {
+    "child_assetID": "enrouteTo702N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "705N"
+  },
+  {
+    "child_assetID": "705N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo705N"
+  },
+  {
+    "child_assetID": "enrouteTo705N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "706N"
+  },
+  {
+    "child_assetID": "706N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo706N"
+  },
+  {
+    "child_assetID": "enrouteTo706N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "707N"
+  },
+  {
+    "child_assetID": "707N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo707N"
+  },
+  {
+    "child_assetID": "enrouteTo707N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "708N"
+  },
+  {
+    "child_assetID": "708N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo708N"
+  },
+  {
+    "child_assetID": "enrouteTo708N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "709N"
+  },
+  {
+    "child_assetID": "709N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo709N"
+  },
+  {
+    "child_assetID": "enrouteTo709N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "710N"
+  },
+  {
+    "child_assetID": "710N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo710N"
+  },
+  {
+    "child_assetID": "enrouteTo710N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "711N"
+  },
+  {
+    "child_assetID": "711N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo711N"
+  },
+  {
+    "child_assetID": "enrouteTo711N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "712N"
+  },
+  {
+    "child_assetID": "712N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo712N"
+  },
+  {
+    "child_assetID": "enrouteTo712N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "713N"
+  },
+  {
+    "child_assetID": "713N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo713N"
+  },
+  {
+    "child_assetID": "enrouteTo713N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "714N"
+  },
+  {
+    "child_assetID": "714N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo714N"
+  },
+  {
+    "child_assetID": "enrouteTo714N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "715N"
+  },
+  {
+    "child_assetID": "715N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo715N"
+  },
+  {
+    "child_assetID": "enrouteTo715N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "716N"
+  },
+  {
+    "child_assetID": "716N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo716N"
+  },
+  {
+    "child_assetID": "enrouteTo716N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "718N"
+  },
+  {
+    "child_assetID": "718N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo718N"
+  },
+  {
+    "child_assetID": "enrouteTo718N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "719N"
+  },
+  {
+    "child_assetID": "719N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo719N"
+  },
+  {
+    "child_assetID": "enrouteTo719N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "720N"
+  },
+  {
+    "child_assetID": "720N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo720N"
+  },
+  {
+    "child_assetID": "enrouteTo720N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "721N"
+  },
+  {
+    "child_assetID": "721N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo721N"
+  },
+  {
+    "child_assetID": "enrouteTo721N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "723N"
+  },
+  {
+    "child_assetID": "723N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo723N"
+  },
+  {
+    "child_assetID": "enrouteTo723N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "724N"
+  },
+  {
+    "child_assetID": "724N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo724N"
+  },
+  {
+    "child_assetID": "enrouteTo724N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "725N"
+  },
+  {
+    "child_assetID": "725N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "enrouteTo725N"
+  },
+  {
+    "child_assetID": "enrouteTo725N",
+    "direction": "<->",
+    "hierarchyName": "7..N",
+    "parent_assetID": "726N"
+  },
+  {
+    "child_assetID": "726S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo726S"
+  },
+  {
+    "child_assetID": "enrouteTo726S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "725S"
+  },
+  {
+    "child_assetID": "725S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo725S"
+  },
+  {
+    "child_assetID": "enrouteTo725S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "724S"
+  },
+  {
+    "child_assetID": "724S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo724S"
+  },
+  {
+    "child_assetID": "enrouteTo724S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "723S"
+  },
+  {
+    "child_assetID": "723S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo723S"
+  },
+  {
+    "child_assetID": "enrouteTo723S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "721S"
+  },
+  {
+    "child_assetID": "721S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo721S"
+  },
+  {
+    "child_assetID": "enrouteTo721S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "720S"
+  },
+  {
+    "child_assetID": "720S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo720S"
+  },
+  {
+    "child_assetID": "enrouteTo720S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "719S"
+  },
+  {
+    "child_assetID": "719S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo719S"
+  },
+  {
+    "child_assetID": "enrouteTo719S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "718S"
+  },
+  {
+    "child_assetID": "718S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo718S"
+  },
+  {
+    "child_assetID": "enrouteTo718S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "716S"
+  },
+  {
+    "child_assetID": "716S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo716S"
+  },
+  {
+    "child_assetID": "enrouteTo716S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "715S"
+  },
+  {
+    "child_assetID": "715S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo715S"
+  },
+  {
+    "child_assetID": "enrouteTo715S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "714S"
+  },
+  {
+    "child_assetID": "714S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo714S"
+  },
+  {
+    "child_assetID": "enrouteTo714S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "713S"
+  },
+  {
+    "child_assetID": "713S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo713S"
+  },
+  {
+    "child_assetID": "enrouteTo713S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "712S"
+  },
+  {
+    "child_assetID": "712S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo712S"
+  },
+  {
+    "child_assetID": "enrouteTo712S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "711S"
+  },
+  {
+    "child_assetID": "711S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo711S"
+  },
+  {
+    "child_assetID": "enrouteTo711S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "710S"
+  },
+  {
+    "child_assetID": "710S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo710S"
+  },
+  {
+    "child_assetID": "enrouteTo710S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "709S"
+  },
+  {
+    "child_assetID": "709S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo709S"
+  },
+  {
+    "child_assetID": "enrouteTo709S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "708S"
+  },
+  {
+    "child_assetID": "708S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo708S"
+  },
+  {
+    "child_assetID": "enrouteTo708S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "707S"
+  },
+  {
+    "child_assetID": "707S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo707S"
+  },
+  {
+    "child_assetID": "enrouteTo707S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "706S"
+  },
+  {
+    "child_assetID": "706S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo706S"
+  },
+  {
+    "child_assetID": "enrouteTo706S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "705S"
+  },
+  {
+    "child_assetID": "705S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo705S"
+  },
+  {
+    "child_assetID": "enrouteTo705S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "702S"
+  },
+  {
+    "child_assetID": "702S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "enrouteTo702S"
+  },
+  {
+    "child_assetID": "enrouteTo702S",
+    "direction": "<->",
+    "hierarchyName": "7..S",
+    "parent_assetID": "701S"
+  },
+  {
+    "child_assetID": "G05N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG05N"
+  },
+  {
+    "child_assetID": "enrouteToG05N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G06N"
+  },
+  {
+    "child_assetID": "G06N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG06N"
+  },
+  {
+    "child_assetID": "enrouteToG06N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G07N"
+  },
+  {
+    "child_assetID": "G07N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG07N"
+  },
+  {
+    "child_assetID": "enrouteToG07N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "F05N"
+  },
+  {
+    "child_assetID": "F05N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToF05N"
+  },
+  {
+    "child_assetID": "enrouteToF05N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "F06N"
+  },
+  {
+    "child_assetID": "F06N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToF06N"
+  },
+  {
+    "child_assetID": "enrouteToF06N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "F07N"
+  },
+  {
+    "child_assetID": "F07N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToF07N"
+  },
+  {
+    "child_assetID": "enrouteToF07N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G08N"
+  },
+  {
+    "child_assetID": "G08N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG08N"
+  },
+  {
+    "child_assetID": "enrouteToG08N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G09N"
+  },
+  {
+    "child_assetID": "G09N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG09N"
+  },
+  {
+    "child_assetID": "enrouteToG09N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G10N"
+  },
+  {
+    "child_assetID": "G10N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG10N"
+  },
+  {
+    "child_assetID": "enrouteToG10N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G11N"
+  },
+  {
+    "child_assetID": "G11N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG11N"
+  },
+  {
+    "child_assetID": "enrouteToG11N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G12N"
+  },
+  {
+    "child_assetID": "G12N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG12N"
+  },
+  {
+    "child_assetID": "enrouteToG12N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G13N"
+  },
+  {
+    "child_assetID": "G13N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG13N"
+  },
+  {
+    "child_assetID": "enrouteToG13N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G14N"
+  },
+  {
+    "child_assetID": "G14N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG14N"
+  },
+  {
+    "child_assetID": "enrouteToG14N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G15N"
+  },
+  {
+    "child_assetID": "G15N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG15N"
+  },
+  {
+    "child_assetID": "enrouteToG15N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G16N"
+  },
+  {
+    "child_assetID": "G16N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG16N"
+  },
+  {
+    "child_assetID": "enrouteToG16N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G18N"
+  },
+  {
+    "child_assetID": "G18N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG18N"
+  },
+  {
+    "child_assetID": "enrouteToG18N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G19N"
+  },
+  {
+    "child_assetID": "G19N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG19N"
+  },
+  {
+    "child_assetID": "enrouteToG19N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G20N"
+  },
+  {
+    "child_assetID": "G20N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG20N"
+  },
+  {
+    "child_assetID": "enrouteToG20N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "G21N"
+  },
+  {
+    "child_assetID": "G21N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToG21N"
+  },
+  {
+    "child_assetID": "enrouteToG21N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "F09N"
+  },
+  {
+    "child_assetID": "F09N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToF09N"
+  },
+  {
+    "child_assetID": "enrouteToF09N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "F11N"
+  },
+  {
+    "child_assetID": "F11N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToF11N"
+  },
+  {
+    "child_assetID": "enrouteToF11N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "F12N"
+  },
+  {
+    "child_assetID": "F12N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToF12N"
+  },
+  {
+    "child_assetID": "enrouteToF12N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "D14N"
+  },
+  {
+    "child_assetID": "D14N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToD14N"
+  },
+  {
+    "child_assetID": "enrouteToD14N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "A25N"
+  },
+  {
+    "child_assetID": "A25N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToA25N"
+  },
+  {
+    "child_assetID": "enrouteToA25N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "A27N"
+  },
+  {
+    "child_assetID": "A27N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToA27N"
+  },
+  {
+    "child_assetID": "enrouteToA27N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "A28N"
+  },
+  {
+    "child_assetID": "A28N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToA28N"
+  },
+  {
+    "child_assetID": "enrouteToA28N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "A30N"
+  },
+  {
+    "child_assetID": "A30N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToA30N"
+  },
+  {
+    "child_assetID": "enrouteToA30N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "A31N"
+  },
+  {
+    "child_assetID": "A31N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToA31N"
+  },
+  {
+    "child_assetID": "enrouteToA31N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "A32N"
+  },
+  {
+    "child_assetID": "A32N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToA32N"
+  },
+  {
+    "child_assetID": "enrouteToA32N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "A33N"
+  },
+  {
+    "child_assetID": "A33N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToA33N"
+  },
+  {
+    "child_assetID": "enrouteToA33N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "A34N"
+  },
+  {
+    "child_assetID": "A34N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "enrouteToA34N"
+  },
+  {
+    "child_assetID": "enrouteToA34N",
+    "direction": "<->",
+    "hierarchyName": "E..N",
+    "parent_assetID": "E01N"
+  },
+  {
+    "child_assetID": "E01S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToE01S"
+  },
+  {
+    "child_assetID": "enrouteToE01S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "A34S"
+  },
+  {
+    "child_assetID": "A34S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToA34S"
+  },
+  {
+    "child_assetID": "enrouteToA34S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "A33S"
+  },
+  {
+    "child_assetID": "A33S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToA33S"
+  },
+  {
+    "child_assetID": "enrouteToA33S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "A32S"
+  },
+  {
+    "child_assetID": "A32S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToA32S"
+  },
+  {
+    "child_assetID": "enrouteToA32S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "A31S"
+  },
+  {
+    "child_assetID": "A31S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToA31S"
+  },
+  {
+    "child_assetID": "enrouteToA31S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "A30S"
+  },
+  {
+    "child_assetID": "A30S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToA30S"
+  },
+  {
+    "child_assetID": "enrouteToA30S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "A28S"
+  },
+  {
+    "child_assetID": "A28S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToA28S"
+  },
+  {
+    "child_assetID": "enrouteToA28S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "A27S"
+  },
+  {
+    "child_assetID": "A27S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToA27S"
+  },
+  {
+    "child_assetID": "enrouteToA27S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "A25S"
+  },
+  {
+    "child_assetID": "A25S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToA25S"
+  },
+  {
+    "child_assetID": "enrouteToA25S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "D14S"
+  },
+  {
+    "child_assetID": "D14S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToD14S"
+  },
+  {
+    "child_assetID": "enrouteToD14S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "F12S"
+  },
+  {
+    "child_assetID": "F12S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToF12S"
+  },
+  {
+    "child_assetID": "enrouteToF12S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "F11S"
+  },
+  {
+    "child_assetID": "F11S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToF11S"
+  },
+  {
+    "child_assetID": "enrouteToF11S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "F09S"
+  },
+  {
+    "child_assetID": "F09S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToF09S"
+  },
+  {
+    "child_assetID": "enrouteToF09S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G21S"
+  },
+  {
+    "child_assetID": "G21S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG21S"
+  },
+  {
+    "child_assetID": "enrouteToG21S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G20S"
+  },
+  {
+    "child_assetID": "G20S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG20S"
+  },
+  {
+    "child_assetID": "enrouteToG20S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G19S"
+  },
+  {
+    "child_assetID": "G19S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG19S"
+  },
+  {
+    "child_assetID": "enrouteToG19S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G18S"
+  },
+  {
+    "child_assetID": "G18S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG18S"
+  },
+  {
+    "child_assetID": "enrouteToG18S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G16S"
+  },
+  {
+    "child_assetID": "G16S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG16S"
+  },
+  {
+    "child_assetID": "enrouteToG16S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G15S"
+  },
+  {
+    "child_assetID": "G15S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG15S"
+  },
+  {
+    "child_assetID": "enrouteToG15S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G14S"
+  },
+  {
+    "child_assetID": "G14S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG14S"
+  },
+  {
+    "child_assetID": "enrouteToG14S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G13S"
+  },
+  {
+    "child_assetID": "G13S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG13S"
+  },
+  {
+    "child_assetID": "enrouteToG13S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G12S"
+  },
+  {
+    "child_assetID": "G12S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG12S"
+  },
+  {
+    "child_assetID": "enrouteToG12S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G11S"
+  },
+  {
+    "child_assetID": "G11S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG11S"
+  },
+  {
+    "child_assetID": "enrouteToG11S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G10S"
+  },
+  {
+    "child_assetID": "G10S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG10S"
+  },
+  {
+    "child_assetID": "enrouteToG10S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G09S"
+  },
+  {
+    "child_assetID": "G09S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG09S"
+  },
+  {
+    "child_assetID": "enrouteToG09S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G08S"
+  },
+  {
+    "child_assetID": "G08S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG08S"
+  },
+  {
+    "child_assetID": "enrouteToG08S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "F07S"
+  },
+  {
+    "child_assetID": "F07S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToF07S"
+  },
+  {
+    "child_assetID": "enrouteToF07S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "F06S"
+  },
+  {
+    "child_assetID": "F06S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToF06S"
+  },
+  {
+    "child_assetID": "enrouteToF06S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "F05S"
+  },
+  {
+    "child_assetID": "F05S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToF05S"
+  },
+  {
+    "child_assetID": "enrouteToF05S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G07S"
+  },
+  {
+    "child_assetID": "G07S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG07S"
+  },
+  {
+    "child_assetID": "enrouteToG07S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G06S"
+  },
+  {
+    "child_assetID": "G06S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "enrouteToG06S"
+  },
+  {
+    "child_assetID": "enrouteToG06S",
+    "direction": "<->",
+    "hierarchyName": "E..S",
+    "parent_assetID": "G05S"
+  },
+  {
+    "child_assetID": "L01N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL01N"
+  },
+  {
+    "child_assetID": "enrouteToL01N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L02N"
+  },
+  {
+    "child_assetID": "L02N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL02N"
+  },
+  {
+    "child_assetID": "enrouteToL02N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L03N"
+  },
+  {
+    "child_assetID": "L03N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL03N"
+  },
+  {
+    "child_assetID": "enrouteToL03N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L05N"
+  },
+  {
+    "child_assetID": "L05N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL05N"
+  },
+  {
+    "child_assetID": "enrouteToL05N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L06N"
+  },
+  {
+    "child_assetID": "L06N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL06N"
+  },
+  {
+    "child_assetID": "enrouteToL06N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L08N"
+  },
+  {
+    "child_assetID": "L08N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL08N"
+  },
+  {
+    "child_assetID": "enrouteToL08N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L10N"
+  },
+  {
+    "child_assetID": "L10N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL10N"
+  },
+  {
+    "child_assetID": "enrouteToL10N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L11N"
+  },
+  {
+    "child_assetID": "L11N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL11N"
+  },
+  {
+    "child_assetID": "enrouteToL11N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L12N"
+  },
+  {
+    "child_assetID": "L12N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL12N"
+  },
+  {
+    "child_assetID": "enrouteToL12N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L13N"
+  },
+  {
+    "child_assetID": "L13N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL13N"
+  },
+  {
+    "child_assetID": "enrouteToL13N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L14N"
+  },
+  {
+    "child_assetID": "L14N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL14N"
+  },
+  {
+    "child_assetID": "enrouteToL14N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L15N"
+  },
+  {
+    "child_assetID": "L15N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL15N"
+  },
+  {
+    "child_assetID": "enrouteToL15N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L16N"
+  },
+  {
+    "child_assetID": "L16N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL16N"
+  },
+  {
+    "child_assetID": "enrouteToL16N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L17N"
+  },
+  {
+    "child_assetID": "L17N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL17N"
+  },
+  {
+    "child_assetID": "enrouteToL17N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L19N"
+  },
+  {
+    "child_assetID": "L19N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL19N"
+  },
+  {
+    "child_assetID": "enrouteToL19N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L20N"
+  },
+  {
+    "child_assetID": "L20N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL20N"
+  },
+  {
+    "child_assetID": "enrouteToL20N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L21N"
+  },
+  {
+    "child_assetID": "L21N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL21N"
+  },
+  {
+    "child_assetID": "enrouteToL21N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L22N"
+  },
+  {
+    "child_assetID": "L22N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL22N"
+  },
+  {
+    "child_assetID": "enrouteToL22N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L24N"
+  },
+  {
+    "child_assetID": "L24N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL24N"
+  },
+  {
+    "child_assetID": "enrouteToL24N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L25N"
+  },
+  {
+    "child_assetID": "L25N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL25N"
+  },
+  {
+    "child_assetID": "enrouteToL25N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L26N"
+  },
+  {
+    "child_assetID": "L26N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL26N"
+  },
+  {
+    "child_assetID": "enrouteToL26N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L27N"
+  },
+  {
+    "child_assetID": "L27N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL27N"
+  },
+  {
+    "child_assetID": "enrouteToL27N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L28N"
+  },
+  {
+    "child_assetID": "L28N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "enrouteToL28N"
+  },
+  {
+    "child_assetID": "enrouteToL28N",
+    "direction": "<->",
+    "hierarchyName": "L..N",
+    "parent_assetID": "L29N"
+  },
+  {
+    "child_assetID": "L29S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL29S"
+  },
+  {
+    "child_assetID": "enrouteToL29S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L28S"
+  },
+  {
+    "child_assetID": "L28S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL28S"
+  },
+  {
+    "child_assetID": "enrouteToL28S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L27S"
+  },
+  {
+    "child_assetID": "L27S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL27S"
+  },
+  {
+    "child_assetID": "enrouteToL27S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L26S"
+  },
+  {
+    "child_assetID": "L26S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL26S"
+  },
+  {
+    "child_assetID": "enrouteToL26S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L25S"
+  },
+  {
+    "child_assetID": "L25S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL25S"
+  },
+  {
+    "child_assetID": "enrouteToL25S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L24S"
+  },
+  {
+    "child_assetID": "L24S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL24S"
+  },
+  {
+    "child_assetID": "enrouteToL24S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L22S"
+  },
+  {
+    "child_assetID": "L22S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL22S"
+  },
+  {
+    "child_assetID": "enrouteToL22S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L21S"
+  },
+  {
+    "child_assetID": "L21S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL21S"
+  },
+  {
+    "child_assetID": "enrouteToL21S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L20S"
+  },
+  {
+    "child_assetID": "L20S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL20S"
+  },
+  {
+    "child_assetID": "enrouteToL20S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L19S"
+  },
+  {
+    "child_assetID": "L19S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL19S"
+  },
+  {
+    "child_assetID": "enrouteToL19S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L17S"
+  },
+  {
+    "child_assetID": "L17S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL17S"
+  },
+  {
+    "child_assetID": "enrouteToL17S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L16S"
+  },
+  {
+    "child_assetID": "L16S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL16S"
+  },
+  {
+    "child_assetID": "enrouteToL16S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L15S"
+  },
+  {
+    "child_assetID": "L15S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL15S"
+  },
+  {
+    "child_assetID": "enrouteToL15S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L14S"
+  },
+  {
+    "child_assetID": "L14S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL14S"
+  },
+  {
+    "child_assetID": "enrouteToL14S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L13S"
+  },
+  {
+    "child_assetID": "L13S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL13S"
+  },
+  {
+    "child_assetID": "enrouteToL13S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L12S"
+  },
+  {
+    "child_assetID": "L12S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL12S"
+  },
+  {
+    "child_assetID": "enrouteToL12S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L11S"
+  },
+  {
+    "child_assetID": "L11S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL11S"
+  },
+  {
+    "child_assetID": "enrouteToL11S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L10S"
+  },
+  {
+    "child_assetID": "L10S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL10S"
+  },
+  {
+    "child_assetID": "enrouteToL10S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L08S"
+  },
+  {
+    "child_assetID": "L08S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL08S"
+  },
+  {
+    "child_assetID": "enrouteToL08S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L06S"
+  },
+  {
+    "child_assetID": "L06S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL06S"
+  },
+  {
+    "child_assetID": "enrouteToL06S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L05S"
+  },
+  {
+    "child_assetID": "L05S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL05S"
+  },
+  {
+    "child_assetID": "enrouteToL05S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L03S"
+  },
+  {
+    "child_assetID": "L03S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL03S"
+  },
+  {
+    "child_assetID": "enrouteToL03S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L02S"
+  },
+  {
+    "child_assetID": "L02S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "enrouteToL02S"
+  },
+  {
+    "child_assetID": "enrouteToL02S",
+    "direction": "<->",
+    "hierarchyName": "L..S",
+    "parent_assetID": "L01S"
+  },
+  {
+    "child_assetID": "Q05N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToQ05N"
+  },
+  {
+    "child_assetID": "enrouteToQ05N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "Q04N"
+  },
+  {
+    "child_assetID": "Q04N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToQ04N"
+  },
+  {
+    "child_assetID": "enrouteToQ04N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "Q03N"
+  },
+  {
+    "child_assetID": "Q03N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToQ03N"
+  },
+  {
+    "child_assetID": "enrouteToQ03N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "B08N"
+  },
+  {
+    "child_assetID": "B08N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToB08N"
+  },
+  {
+    "child_assetID": "enrouteToB08N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "R14N"
+  },
+  {
+    "child_assetID": "R14N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToR14N"
+  },
+  {
+    "child_assetID": "enrouteToR14N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "R15N"
+  },
+  {
+    "child_assetID": "R15N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToR15N"
+  },
+  {
+    "child_assetID": "enrouteToR15N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "R16N"
+  },
+  {
+    "child_assetID": "R16N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToR16N"
+  },
+  {
+    "child_assetID": "enrouteToR16N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "R17N"
+  },
+  {
+    "child_assetID": "R17N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToR17N"
+  },
+  {
+    "child_assetID": "enrouteToR17N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "R18N"
+  },
+  {
+    "child_assetID": "R18N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToR18N"
+  },
+  {
+    "child_assetID": "enrouteToR18N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "R19N"
+  },
+  {
+    "child_assetID": "R19N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToR19N"
+  },
+  {
+    "child_assetID": "enrouteToR19N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "R20N"
+  },
+  {
+    "child_assetID": "R20N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToR20N"
+  },
+  {
+    "child_assetID": "enrouteToR20N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "R21N"
+  },
+  {
+    "child_assetID": "R21N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToR21N"
+  },
+  {
+    "child_assetID": "enrouteToR21N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "R22N"
+  },
+  {
+    "child_assetID": "R22N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToR22N"
+  },
+  {
+    "child_assetID": "enrouteToR22N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "Q01N"
+  },
+  {
+    "child_assetID": "Q01N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToQ01N"
+  },
+  {
+    "child_assetID": "enrouteToQ01N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "R30N"
+  },
+  {
+    "child_assetID": "R30N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToR30N"
+  },
+  {
+    "child_assetID": "enrouteToR30N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D24N"
+  },
+  {
+    "child_assetID": "D24N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD24N"
+  },
+  {
+    "child_assetID": "enrouteToD24N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D25N"
+  },
+  {
+    "child_assetID": "D25N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD25N"
+  },
+  {
+    "child_assetID": "enrouteToD25N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D26N"
+  },
+  {
+    "child_assetID": "D26N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD26N"
+  },
+  {
+    "child_assetID": "enrouteToD26N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D27N"
+  },
+  {
+    "child_assetID": "D27N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD27N"
+  },
+  {
+    "child_assetID": "enrouteToD27N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D28N"
+  },
+  {
+    "child_assetID": "D28N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD28N"
+  },
+  {
+    "child_assetID": "enrouteToD28N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D29N"
+  },
+  {
+    "child_assetID": "D29N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD29N"
+  },
+  {
+    "child_assetID": "enrouteToD29N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D30N"
+  },
+  {
+    "child_assetID": "D30N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD30N"
+  },
+  {
+    "child_assetID": "enrouteToD30N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D31N"
+  },
+  {
+    "child_assetID": "D31N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD31N"
+  },
+  {
+    "child_assetID": "enrouteToD31N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D32N"
+  },
+  {
+    "child_assetID": "D32N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD32N"
+  },
+  {
+    "child_assetID": "enrouteToD32N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D33N"
+  },
+  {
+    "child_assetID": "D33N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD33N"
+  },
+  {
+    "child_assetID": "enrouteToD33N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D34N"
+  },
+  {
+    "child_assetID": "D34N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD34N"
+  },
+  {
+    "child_assetID": "enrouteToD34N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D35N"
+  },
+  {
+    "child_assetID": "D35N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD35N"
+  },
+  {
+    "child_assetID": "enrouteToD35N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D37N"
+  },
+  {
+    "child_assetID": "D37N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD37N"
+  },
+  {
+    "child_assetID": "enrouteToD37N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D38N"
+  },
+  {
+    "child_assetID": "D38N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD38N"
+  },
+  {
+    "child_assetID": "enrouteToD38N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D39N"
+  },
+  {
+    "child_assetID": "D39N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD39N"
+  },
+  {
+    "child_assetID": "enrouteToD39N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D40N"
+  },
+  {
+    "child_assetID": "D40N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD40N"
+  },
+  {
+    "child_assetID": "enrouteToD40N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D41N"
+  },
+  {
+    "child_assetID": "D41N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD41N"
+  },
+  {
+    "child_assetID": "enrouteToD41N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D42N"
+  },
+  {
+    "child_assetID": "D42N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "enrouteToD42N"
+  },
+  {
+    "child_assetID": "enrouteToD42N",
+    "direction": "<->",
+    "hierarchyName": "Q..N",
+    "parent_assetID": "D43N"
+  },
+  {
+    "child_assetID": "D43S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD43S"
+  },
+  {
+    "child_assetID": "enrouteToD43S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D42S"
+  },
+  {
+    "child_assetID": "D42S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD42S"
+  },
+  {
+    "child_assetID": "enrouteToD42S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D41S"
+  },
+  {
+    "child_assetID": "D41S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD41S"
+  },
+  {
+    "child_assetID": "enrouteToD41S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D40S"
+  },
+  {
+    "child_assetID": "D40S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD40S"
+  },
+  {
+    "child_assetID": "enrouteToD40S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D39S"
+  },
+  {
+    "child_assetID": "D39S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD39S"
+  },
+  {
+    "child_assetID": "enrouteToD39S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D38S"
+  },
+  {
+    "child_assetID": "D38S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD38S"
+  },
+  {
+    "child_assetID": "enrouteToD38S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D37S"
+  },
+  {
+    "child_assetID": "D37S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD37S"
+  },
+  {
+    "child_assetID": "enrouteToD37S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D35S"
+  },
+  {
+    "child_assetID": "D35S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD35S"
+  },
+  {
+    "child_assetID": "enrouteToD35S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D34S"
+  },
+  {
+    "child_assetID": "D34S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD34S"
+  },
+  {
+    "child_assetID": "enrouteToD34S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D33S"
+  },
+  {
+    "child_assetID": "D33S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD33S"
+  },
+  {
+    "child_assetID": "enrouteToD33S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D32S"
+  },
+  {
+    "child_assetID": "D32S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD32S"
+  },
+  {
+    "child_assetID": "enrouteToD32S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D31S"
+  },
+  {
+    "child_assetID": "D31S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD31S"
+  },
+  {
+    "child_assetID": "enrouteToD31S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D30S"
+  },
+  {
+    "child_assetID": "D30S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD30S"
+  },
+  {
+    "child_assetID": "enrouteToD30S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D29S"
+  },
+  {
+    "child_assetID": "D29S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD29S"
+  },
+  {
+    "child_assetID": "enrouteToD29S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D28S"
+  },
+  {
+    "child_assetID": "D28S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD28S"
+  },
+  {
+    "child_assetID": "enrouteToD28S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D27S"
+  },
+  {
+    "child_assetID": "D27S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD27S"
+  },
+  {
+    "child_assetID": "enrouteToD27S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D26S"
+  },
+  {
+    "child_assetID": "D26S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD26S"
+  },
+  {
+    "child_assetID": "enrouteToD26S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D25S"
+  },
+  {
+    "child_assetID": "D25S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD25S"
+  },
+  {
+    "child_assetID": "enrouteToD25S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "D24S"
+  },
+  {
+    "child_assetID": "D24S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToD24S"
+  },
+  {
+    "child_assetID": "enrouteToD24S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "R30S"
+  },
+  {
+    "child_assetID": "R30S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToR30S"
+  },
+  {
+    "child_assetID": "enrouteToR30S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "Q01S"
+  },
+  {
+    "child_assetID": "Q01S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToQ01S"
+  },
+  {
+    "child_assetID": "enrouteToQ01S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "R22S"
+  },
+  {
+    "child_assetID": "R22S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToR22S"
+  },
+  {
+    "child_assetID": "enrouteToR22S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "R21S"
+  },
+  {
+    "child_assetID": "R21S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToR21S"
+  },
+  {
+    "child_assetID": "enrouteToR21S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "R20S"
+  },
+  {
+    "child_assetID": "R20S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToR20S"
+  },
+  {
+    "child_assetID": "enrouteToR20S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "R19S"
+  },
+  {
+    "child_assetID": "R19S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToR19S"
+  },
+  {
+    "child_assetID": "enrouteToR19S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "R18S"
+  },
+  {
+    "child_assetID": "R18S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToR18S"
+  },
+  {
+    "child_assetID": "enrouteToR18S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "R17S"
+  },
+  {
+    "child_assetID": "R17S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToR17S"
+  },
+  {
+    "child_assetID": "enrouteToR17S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "R16S"
+  },
+  {
+    "child_assetID": "R16S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToR16S"
+  },
+  {
+    "child_assetID": "enrouteToR16S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "R15S"
+  },
+  {
+    "child_assetID": "R15S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToR15S"
+  },
+  {
+    "child_assetID": "enrouteToR15S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "R14S"
+  },
+  {
+    "child_assetID": "R14S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToR14S"
+  },
+  {
+    "child_assetID": "enrouteToR14S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "B08S"
+  },
+  {
+    "child_assetID": "B08S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToB08S"
+  },
+  {
+    "child_assetID": "enrouteToB08S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "Q03S"
+  },
+  {
+    "child_assetID": "Q03S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToQ03S"
+  },
+  {
+    "child_assetID": "enrouteToQ03S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "Q04S"
+  },
+  {
+    "child_assetID": "Q04S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "enrouteToQ04S"
+  },
+  {
+    "child_assetID": "enrouteToQ04S",
+    "direction": "<->",
+    "hierarchyName": "Q..S",
+    "parent_assetID": "Q05S"
+  }
+]

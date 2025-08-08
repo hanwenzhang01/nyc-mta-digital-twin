@@ -1,0 +1,14 @@
+[
+    {
+        "assetType": "station",
+        "assetTypeLabel": "Station"
+    },
+    {
+        "assetType": "train",
+        "assetTypeLabel": "Train"
+    },
+    {
+        "assetType": "track",
+        "assetTypeLabel": "Track"
+    }
+]
