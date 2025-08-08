@@ -1,0 +1,88 @@
+[
+    {
+        "assetType": "track",
+        "attributeID": "lastEnrouteTrain",
+        "targetAttributeID": "enrouteToEnd",
+        "oldTimePeriod": "3600",
+        "recentTimePeriod": "0",
+        "maxEventsToSearch": "100",
+        "searchLogic": "newest",
+        "instanceNumber": "1",
+        "searchSubsetValue": "",
+        "searchSubsetAttributeID": "",
+		"returnValue": "value",
+        "queryAssetIDFromThisAttribID": ""
+    },
+    {
+        "assetType": "track",
+        "attributeID": "lastEnrouteTrainEnd",
+        "targetAttributeID": "enrouteToEnd",
+        "oldTimePeriod": "3600",
+        "recentTimePeriod": "0",
+        "maxEventsToSearch": "100",
+        "searchLogic": "newest",
+        "instanceNumber": "1",
+        "searchSubsetValue": "",
+        "searchSubsetAttributeID": "",
+		"returnValue": "time",
+        "queryAssetIDFromThisAttribID": ""
+    },
+    {
+        "assetType": "track",
+        "attributeID": "lastEnrouteTrainStart",
+        "targetAttributeID": "enrouteToStart",
+        "oldTimePeriod": "3600",
+        "recentTimePeriod": "0",
+        "maxEventsToSearch": "100",
+        "searchLogic": "newest",
+        "instanceNumber": "1",
+        "searchSubsetValue": "",
+        "searchSubsetAttributeID": "lastEnrouteTrain",
+		"returnValue": "time",
+        "queryAssetIDFromThisAttribID": ""
+    },
+
+    {
+        "assetType": "station",
+        "attributeID": "lastDepartedTrain",
+        "targetAttributeID": "trainDepartureFrom",
+        "oldTimePeriod": "3600",
+        "recentTimePeriod": "0",
+        "maxEventsToSearch": "100",
+        "searchLogic": "newest",
+        "instanceNumber": "1",
+        "searchSubsetValue": "",
+        "searchSubsetAttributeID": "",
+		"returnValue": "value",
+        "queryAssetIDFromThisAttribID": ""
+    },
+    {
+        "assetType": "station",
+        "attributeID": "lastDepartedTrainTime",
+        "targetAttributeID": "trainDepartureFrom",
+        "oldTimePeriod": "3600",
+        "recentTimePeriod": "0",
+        "maxEventsToSearch": "100",
+        "searchLogic": "newest",
+        "instanceNumber": "1",
+        "searchSubsetValue": "",
+        "searchSubsetAttributeID": "",
+		"returnValue": "time",
+        "queryAssetIDFromThisAttribID": ""
+    },
+    {
+        "assetType": "station",
+        "attributeID": "lastDepartedTrainArrivalTime",
+        "targetAttributeID": "trainArrival",
+        "oldTimePeriod": "3600",
+        "recentTimePeriod": "0",
+        "maxEventsToSearch": "100",
+        "searchLogic": "newest",
+        "instanceNumber": "1",
+        "searchSubsetValue": "",
+        "searchSubsetAttributeID": "lastDepartedTrain",
+		"returnValue": "time",
+        "queryAssetIDFromThisAttribID": ""
+    }
+
+]

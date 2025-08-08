@@ -1,0 +1,29 @@
+[
+	{
+        "assetType": "track",
+        "attributeID": "travelTimeRollingAvg",
+        "maxHistorySeconds": null,
+        "oldTimePeriodAssetType": null,
+        "oldTimePeriodAttributeID": null,
+        "oldTimePeriodNumeric": "600",
+        "recentTimePeriodAssetType": null,
+        "recentTimePeriodAttributeID": null,
+        "recentTimePeriodNumeric": "0",
+        "summaryLogic": "avg",
+        "targetAttributeID": "travelTime"
+    },
+    {
+        "assetType": "station",
+        "attributeID": "waitTimeRollingAvg",
+        "maxHistorySeconds": null,
+        "oldTimePeriodAssetType": null,
+        "oldTimePeriodAttributeID": null,
+        "oldTimePeriodNumeric": "600",
+        "recentTimePeriodAssetType": null,
+        "recentTimePeriodAttributeID": null,
+        "recentTimePeriodNumeric": "0",
+        "summaryLogic": "avg",
+        "targetAttributeID": "waitTime"
+    }
+
+]

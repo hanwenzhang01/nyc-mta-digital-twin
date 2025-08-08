@@ -1,0 +1,38 @@
+[
+    {
+        "assetType": "station",
+        "attributeID": "numTrainsAtPrevStation",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "queryAssetIDFromThisAttribID": "prevStation"
+    },
+    {
+        "assetType": "station",
+        "attributeID": "numTrainsEnrouteToThis",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "queryAssetIDFromThisAttribID": "prevTrack"
+    },
+    {
+        "assetType": "station",
+        "attributeID": "numTrainsEnrouteFromThis",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "queryAssetIDFromThisAttribID": "nextTrack"
+    },
+    {
+        "assetType": "station",
+        "attributeID": "numTrainsAtNextStation",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "queryAssetIDFromThisAttribID": "nextStation"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "assetType": "station",
+        "attributeID": "prevStationTrain1",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "1",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": "prevStation"
+    },
+    {
+        "assetType": "station",
+        "attributeID": "prevStationTrain2",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "2",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": "prevStation"
+    },
+
+    {
+        "assetType": "station",
+        "attributeID": "prevTrackTrain1",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "1",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": "prevTrack"
+    },
+    {
+        "assetType": "station",
+        "attributeID": "prevTrackTrain2",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "2",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": "prevTrack"
+    },
+
+    {
+        "assetType": "station",
+        "attributeID": "trainInStation",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "1",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": ""
+    },
+
+    {
+        "assetType": "station",
+        "attributeID": "nextTrackTrain1",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "1",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": "nextTrack"
+    },
+    {
+        "assetType": "station",
+        "attributeID": "nextTrackTrain2",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "2",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": "nextTrack"
+    },
+
+    {
+        "assetType": "station",
+        "attributeID": "nextStationTrain1",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "1",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": "nextStation"
+    },
+    {
+        "assetType": "station",
+        "attributeID": "nextStationTrain2",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "2",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": "nextStation"
+    },
+
+    {
+        "assetType": "track",
+        "attributeID": "enrouteTrain1",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "1",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": ""
+    },
+    {
+        "assetType": "track",
+        "attributeID": "enrouteTrain2",
+        "hierarchyValue": "",
+        "hierarchyAttributeID": "route",
+        "parentsOrChildren": "children",
+        "subsetAssetType": "train",
+        "instanceNumber": "2",
+        "searchLogic": "oldest",
+        "queryAssetIDFromThisAttribID": ""
+    }
+
+]
