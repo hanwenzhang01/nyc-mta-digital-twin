@@ -99,10 +99,10 @@ Find the full Python script in the [api_query_processing.py](esp_project/api_que
 
 ### 2.3 Output to CAS Tables
 After processing, the data is output to three different CAS tables for data storage. These tables are divided by asset type, so there is a Train, Station, and Track table. Below, observe a video of a live ESP project and the activity in each output window. 
-<br/>🎥 [Live ESP Project Walkthrough](videos/StationsRecording.mp4)<br/>
+<br/>🎥 [Live ESP Project Walkthrough](https://youtu.be/rpOQBX7sN8o)<br/>
 
 Here, observe a video of a live ESP project and its output when a train completes its route. 
-<br/>🎥 [Live ESP End of Route Recording](videos/TrainEndOfRouteRecording.mp4)<br/>
+<br/>🎥 [Live ESP End of Route Recording](https://youtu.be/ylIXHDxjqnA)<br/>
 
 Also observe static examples of each table below. <br/><br/>
 ![train_table](images/train_table.jpeg)<br/> <br/>
@@ -148,10 +148,12 @@ The **route filtering menu** shows a list of all available routes. Users can sel
 
 
 The following video demonstration shows the live dashboard as it updates. It also explores each of the dashboard components, showing them in action in a real-time environment. 
-<br/>🎥 [Live MTA Dashboard](videos\mta_dashboard_final.mp4)<br/><br/>
+<br/>🎥 [Live MTA Dashboard](https://youtu.be/Ree0fDY1EnU)<br/><br/>
 
 
 ## Additional Resources
 Find Hanwen Zhang's video presentation of the full MTA project below. This is a short explanation of the project overview, process, and main components. 
 
+!! Link below to be updated shortly. Apologies !!
 <br/>🎥 [MTA Project Presentation](videos/mta_project_final_presentation.mp4)
+
