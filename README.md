@@ -79,7 +79,7 @@ The Event Stream Processing (ESP) project queries the MTA API every 30 seconds, 
 ![esp_entire_project](images/esp_entire_project.png)<br/> <br/><br/>
 
 Below, observe a short video showing the location and some individual windows of the ESP project. 
-🎥 [ESP Project Video](videos/ESPStudioProjectDemo.mp4)<br/> <br/><br/>
+🎥 [ESP Project Video](https://youtu.be/bavjWok2HcY)<br/> <br/><br/>
 
 ### 2.1 MTA API Query
 The Metropolitan Transportation Authority is responsible for public transport in New York City. The MTA provides various data feeds accessible via API for the [subway](https://api.mta.info/#/subwayRealTimeFeeds), [Long Island Railroad](https://api.mta.info/#/lirrFeeds), and [Metro-North Rail](https://api.mta.info/#/mnrFeeds) transit systems. Use of the API does not require accounts or API keys. <br/>
@@ -153,4 +153,5 @@ The following video demonstration shows the live dashboard as it updates. It als
 
 ## Additional Resources
 Find Hanwen Zhang's video presentation of the full MTA project below. This is a short explanation of the project overview, process, and main components. 
+
 <br/>🎥 [MTA Project Presentation](videos/mta_project_final_presentation.mp4)
