@@ -76,10 +76,10 @@ To convert the information from the .txt formats seen in the [subway_data](digit
 
 ## 2. Live Project
 The Event Stream Processing (ESP) project queries the MTA API every 30 seconds, processes the data, and outputs the data to CAS tables. The ESP project was created using AutoMLForIoT, which uses information from the digital twin definition to build a project. Below, observe a diagram of the entire ESP project. <br/> <br/>
-![esp_entire_project](images/esp_entire_project.png)<br/> <br/><br/>
+![esp_entire_project](images/esp_entire_project.png)<br/> <br/>
 
-Below, observe a short video showing the location and some individual windows of the ESP project. 
-🎥 [ESP Project Video](https://youtu.be/bavjWok2HcY)<br/> <br/><br/>
+Here, observe a short video showing the location and some individual windows of the ESP project. 
+🎥 [ESP Project Video](https://youtu.be/bavjWok2HcY) <br/><br/>
 
 ### 2.1 MTA API Query
 The Metropolitan Transportation Authority is responsible for public transport in New York City. The MTA provides various data feeds accessible via API for the [subway](https://api.mta.info/#/subwayRealTimeFeeds), [Long Island Railroad](https://api.mta.info/#/lirrFeeds), and [Metro-North Rail](https://api.mta.info/#/mnrFeeds) transit systems. Use of the API does not require accounts or API keys. <br/>
@@ -154,6 +154,7 @@ The following video demonstration shows the live dashboard as it updates. It als
 ## Additional Resources
 Find Hanwen Zhang's video presentation of the full MTA project below. This is a short explanation of the project overview, process, and main components. 
 
-!! Link below to be updated shortly. Apologies !!
+!! Link below to be updated shortly. Apologies !! <br/>
 <br/>🎥 [MTA Project Presentation](videos/mta_project_final_presentation.mp4)
+
 
