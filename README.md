@@ -154,7 +154,8 @@ The following video demonstration shows the live dashboard as it updates. It als
 ## Additional Resources
 Find Hanwen Zhang's video presentation of the full MTA project below. This is a short explanation of the project overview, process, and main components. 
 
-!! Link below to be updated shortly. Apologies !! <br/>
+!! Link below to be updated shortly, apologies. <br/>
 <br/>🎥 [MTA Project Presentation](videos/mta_project_final_presentation.mp4)
+
 
 
